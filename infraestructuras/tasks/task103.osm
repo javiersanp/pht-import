@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27941' visible='true' lat='28.43813434061' lon='-16.36890604518'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Nuestra Señora de la Esperanza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28293' visible='true' lat='28.44986674753' lon='-16.38234258474'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Juan Fernández 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28303' visible='true' lat='28.44989433842' lon='-16.38229188508'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Juan Fernández 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28481' visible='true' lat='28.43862499887' lon='-16.37037248563'>
+    <tag k='alt_name' v='Galería Fuente Salto de la Tirada' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Rosas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28485' visible='true' lat='28.43779309712' lon='-16.37857105632'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28487' visible='true' lat='28.43741704956' lon='-16.38183354502'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 5' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28497' visible='true' lat='28.43745324956' lon='-16.38182380495'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 4' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28501' visible='true' lat='28.4516288079' lon='-16.36784419594'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de la Esperanza 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28503' visible='true' lat='28.45140299962' lon='-16.36786171323'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de la Esperanza 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28515' visible='true' lat='28.43767696512' lon='-16.38023386865'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 9' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28531' visible='true' lat='28.4376639895' lon='-16.3797333839'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28535' visible='true' lat='28.43760447477' lon='-16.38115187536'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28539' visible='true' lat='28.43758512923' lon='-16.37860920215'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 8' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28541' visible='true' lat='28.4372493475' lon='-16.3779003241'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 7' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28547' visible='true' lat='28.43728023891' lon='-16.38286302707'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 6' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28551' visible='true' lat='28.43767603323' lon='-16.38032575139'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Berros y Gavilanes 10' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29351' visible='true' lat='28.44941118634' lon='-16.37027667115'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Grano de Oro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29401' visible='true' lat='28.4380909656' lon='-16.36873190649'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Nuestra Señora de la Esperanza 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30657' visible='true' lat='28.45172643058' lon='-16.36800884317'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Plaza Adelantado' />
+  </node>
+  <node id='-30659' visible='true' lat='28.43862842103' lon='-16.37450784201'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Berros' />
+  </node>
+  <node id='-30661' visible='true' lat='28.44391037029' lon='-16.37786412141'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Montañeta' />
+  </node>
+  <node id='-31537' visible='true' lat='28.44392624725' lon='-16.37807876122'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Montañeta III' />
+  </node>
+  <node id='-31539' visible='true' lat='28.44375478953' lon='-16.3780765385'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Montañeta II' />
+  </node>
+</osm>

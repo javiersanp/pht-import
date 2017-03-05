@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-31131' visible='true' lat='28.35443374608' lon='-16.78133005658'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Cruz Grande' />
+  </node>
+  <node id='-31133' visible='true' lat='28.35021213432' lon='-16.7791173533'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barrio Nuevo' />
+  </node>
+  <node id='-31149' visible='true' lat='28.35512363081' lon='-16.77617959625'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Colegio' />
+  </node>
+</osm>

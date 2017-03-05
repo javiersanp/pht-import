@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29325' visible='true' lat='28.47427676247' lon='-16.44770287437'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Arquillos' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

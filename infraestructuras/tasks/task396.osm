@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28089' visible='true' lat='28.23382221548' lon='-16.50983852312'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Sorpresa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28093' visible='true' lat='28.23371023069' lon='-16.50526131219'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Sauces' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29041' visible='true' lat='28.23405980536' lon='-16.50548022505'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Sauce Viejo' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

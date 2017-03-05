@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27353' visible='true' lat='28.24921982077' lon='-16.75954165241'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Juan de Chío' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27541' visible='true' lat='28.2356340451' lon='-16.76333358868'>
+    <tag k='alt_name' v='Galería Hoyos de Chiguergue' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hoya del Pino' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27545' visible='true' lat='28.24125834279' lon='-16.75195133052'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hoya de la Leña' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

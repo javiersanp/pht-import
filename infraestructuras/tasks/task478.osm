@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29493' visible='true' lat='28.1604786273' lon='-16.49788063811'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco de Pedro Bermejo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30123' visible='true' lat='28.15090467956' lon='-16.49522199831'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Saltadero de los Abejones' />
+  </node>
+  <node id='-30205' visible='true' lat='28.16201318432' lon='-16.4820964996'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Ovejeros' />
+  </node>
+</osm>

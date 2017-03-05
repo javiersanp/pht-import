@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30025' visible='true' lat='28.09598518708' lon='-16.48523898551'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Maretas 2' />
+  </node>
+  <node id='-30049' visible='true' lat='28.09724669361' lon='-16.48125646109'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Maretas' />
+  </node>
+  <node id='-31845' visible='true' lat='28.09699335825' lon='-16.4813140489'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Playa del Río' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-32019' visible='true' lat='28.09869198473' lon='-16.48114399696'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Las Maretas C/cruz de Tea' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

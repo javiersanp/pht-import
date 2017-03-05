@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30321' visible='true' lat='28.10066390466' lon='-16.74828784724'>
+    <tag k='alt_name' v='EDAM La Caleta' />
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Adeje Oeste' />
+  </node>
+  <node id='-30373' visible='true' lat='28.09506449461' lon='-16.75001874102'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Hotel Sheraton la Caleta' />
+  </node>
+  <node id='-31575' visible='true' lat='28.10045456072' lon='-16.74842693688'>
+    <tag k='alt_name' v='Depósito La Caleta' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Adeje - Oeste' />
+  </node>
+  <node id='-31887' visible='true' lat='28.09925435901' lon='-16.75477845891'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo La Caleta de Adeje' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31889' visible='true' lat='28.09316614444' lon='-16.74743358404'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Beril' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31973' visible='true' lat='28.09901002989' lon='-16.75624000745'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo La Caleta-Paseo Marítimo Cabezo' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31975' visible='true' lat='28.10179592089' lon='-16.75716064728'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo de la Caleta-Varadero' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-32033' visible='true' lat='28.09715190398' lon='-16.75122297745'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo de San Sebastián II' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-32035' visible='true' lat='28.09597912157' lon='-16.75048136877'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo de San Sebastián I' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

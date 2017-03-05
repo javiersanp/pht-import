@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28117' visible='true' lat='28.13768717067' lon='-16.56827428502'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Abandonada' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30815' visible='true' lat='28.12806938705' lon='-16.5797909316'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Santa Lucía' />
+  </node>
+  <node id='-30827' visible='true' lat='28.14062363408' lon='-16.56404073136'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Higuera' />
+  </node>
+</osm>

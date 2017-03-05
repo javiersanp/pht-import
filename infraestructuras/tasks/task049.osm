@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27799' visible='true' lat='28.5146655739' lon='-16.33840134997'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Coco' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30099' visible='true' lat='28.52125072742' lon='-16.32862347862'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Laureles' />
+  </node>
+  <node id='-31423' visible='true' lat='28.51623896997' lon='-16.3408429315'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Bardona' />
+  </node>
+  <node id='-31433' visible='true' lat='28.5117812912' lon='-16.3251226825'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Mesa Mota' />
+  </node>
+  <node id='-31577' visible='true' lat='28.52081823304' lon='-16.32762684529'>
+    <tag k='alt_name' v='Presa Embalse de los Laureles' />
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa de Don Hipólito' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31635' visible='true' lat='28.52265832434' lon='-16.32958126198'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Charca de Don Eduardo' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27555' visible='true' lat='28.21537859143' lon='-16.77412620241'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Pedro de Aripe' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30387' visible='true' lat='28.21509840978' lon='-16.77276653988'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAS de Aripe' />
+  </node>
+  <node id='-30989' visible='true' lat='28.21589176157' lon='-16.77561198566'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Guía de Isora I' />
+  </node>
+  <node id='-31005' visible='true' lat='28.21581703661' lon='-16.7751115244'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Guía de Isora II' />
+  </node>
+</osm>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27557' visible='true' lat='28.34971221039' lon='-16.44422434852'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco de Amance' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27591' visible='true' lat='28.35688479117' lon='-16.45210603421'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Huecos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27593' visible='true' lat='28.34371443304' lon='-16.45488522818'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Espigón 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27595' visible='true' lat='28.34887312394' lon='-16.44930372271'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Añavingo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27605' visible='true' lat='28.3613932518' lon='-16.44485181389'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Laja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27615' visible='true' lat='28.35556441908' lon='-16.44641547577'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Caudal 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29047' visible='true' lat='28.34933707546' lon='-16.4506566738'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Madera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29049' visible='true' lat='28.34974392694' lon='-16.45143755117'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Madre de Abajo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29053' visible='true' lat='28.34975347846' lon='-16.45053991073'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Canarios' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29059' visible='true' lat='28.3494055967' lon='-16.45269798533'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Troja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29067' visible='true' lat='28.34997029999' lon='-16.45306274052'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Madre de Arriba' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

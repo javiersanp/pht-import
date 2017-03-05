@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29665' visible='true' lat='28.53803287371' lon='-16.36460498953'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Majada' />
+  </node>
+  <node id='-29669' visible='true' lat='28.52654219228' lon='-16.38438421294'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Noria' />
+  </node>
+  <node id='-29681' visible='true' lat='28.53045048471' lon='-16.37546259294'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Espinal' />
+  </node>
+  <node id='-29695' visible='true' lat='28.52926966817' lon='-16.36727175478'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Bartolomé' />
+  </node>
+  <node id='-29721' visible='true' lat='28.53776791965' lon='-16.37743814901'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Pilones' />
+  </node>
+  <node id='-29741' visible='true' lat='28.52598301488' lon='-16.38080024268'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Río Claro' />
+  </node>
+  <node id='-31739' visible='true' lat='28.53938694554' lon='-16.37798044851'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Barranco el Espinal 1' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31741' visible='true' lat='28.54199331106' lon='-16.37905687184'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Barranco el Espinal 2' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31947' visible='true' lat='28.52627858518' lon='-16.37479527787'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Espinal Alto' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31949' visible='true' lat='28.53786727868' lon='-16.37654006412'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Espinal Bajo' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

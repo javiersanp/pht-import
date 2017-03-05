@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28295' visible='true' lat='28.46170007767' lon='-16.37599096275'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Guillen' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28297' visible='true' lat='28.45856403282' lon='-16.37194701887'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Zamorano 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28301' visible='true' lat='28.45847341603' lon='-16.3710879938'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Zamorano 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31483' visible='true' lat='28.4624640819' lon='-16.37808429707'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Ortigal' />
+  </node>
+</osm>

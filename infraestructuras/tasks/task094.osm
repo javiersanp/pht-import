@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30531' visible='true' lat='28.46892772925' lon='-16.29148493784'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Higuerita' />
+  </node>
+  <node id='-30533' visible='true' lat='28.46227947423' lon='-16.29396758772'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Mantecas' />
+  </node>
+  <node id='-30561' visible='true' lat='28.4558880233' lon='-16.28172665597'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Vuelta Grande' />
+  </node>
+  <node id='-30565' visible='true' lat='28.46083674379' lon='-16.28525877494'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Polígono de Ofra' />
+  </node>
+  <node id='-30575' visible='true' lat='28.46277657856' lon='-16.29009264522'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Ofra' />
+  </node>
+  <node id='-30643' visible='true' lat='28.46054173611' lon='-16.28495903009'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Polígono de Ofra II' />
+  </node>
+  <node id='-31447' visible='true' lat='28.46889758453' lon='-16.28800168356'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Cuesta' />
+  </node>
+  <node id='-31455' visible='true' lat='28.47035149802' lon='-16.30024532914'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Finca España' />
+  </node>
+</osm>

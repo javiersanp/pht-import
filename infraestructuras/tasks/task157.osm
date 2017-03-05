@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27683' visible='true' lat='28.37873420687' lon='-16.62558385848'>
+    <tag k='alt_name' v='Galería Barranco de los Caballos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Molinos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27687' visible='true' lat='28.38029438243' lon='-16.62718933602'>
+    <tag k='alt_name' v='Galería la Escalera' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Arroyo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27829' visible='true' lat='28.38816256568' lon='-16.61288958574'>
+    <tag k='alt_name' v='Galería San Morondón' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Borondón' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28035' visible='true' lat='28.38103395856' lon='-16.61051628909'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Corral del Rey' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28615' visible='true' lat='28.38427248239' lon='-16.62658676789'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Cogedero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28659' visible='true' lat='28.38637762446' lon='-16.62108780071'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Guancheros' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28671' visible='true' lat='28.3938739651' lon='-16.61984451348'>
+    <tag k='alt_name' v='Galería el Barranco' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tanque' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28673' visible='true' lat='28.39500185951' lon='-16.61986166621'>
+    <tag k='alt_name' v='Galería San Antonio' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Playa 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28677' visible='true' lat='28.39460758429' lon='-16.61886570857'>
+    <tag k='alt_name' v='Galería el Roquillo' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Playa 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28739' visible='true' lat='28.38562094127' lon='-16.61793317125'>
+    <tag k='alt_name' v='Galería la Riqueza; Galería la Sombrerao Nuestra .' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Quicla' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28785' visible='true' lat='28.3938150622' lon='-16.6095868637'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Finca del Roque' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29843' visible='true' lat='28.39409893728' lon='-16.61989896341'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Antonio' />
+  </node>
+  <node id='-29881' visible='true' lat='28.39260616868' lon='-16.62475453355'>
+    <tag k='alt_name' v='Pozo Viña Señora' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco Ruíz' />
+  </node>
+  <node id='-29931' visible='true' lat='28.3937339201' lon='-16.62402671979'>
+    <tag k='alt_name' v='Pozo Ruíz' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Calladito' />
+  </node>
+</osm>

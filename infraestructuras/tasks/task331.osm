@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27473' visible='true' lat='28.28066406267' lon='-16.41535621397'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Siete Fuentes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29531' visible='true' lat='28.28219786393' lon='-16.40403900645'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Charco' />
+  </node>
+  <node id='-30729' visible='true' lat='28.28141982483' lon='-16.41297026564'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Medida Viejo' />
+  </node>
+  <node id='-30733' visible='true' lat='28.27556165343' lon='-16.41999880856'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Lomo Mena Viejo' />
+  </node>
+  <node id='-30749' visible='true' lat='28.28534075123' lon='-16.42042423506'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Medida Nuevo' />
+  </node>
+</osm>

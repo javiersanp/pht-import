@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29285' visible='true' lat='28.44725903702' lon='-16.35537076946'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Pino 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29287' visible='true' lat='28.44490886799' lon='-16.3602524307'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Garabato' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

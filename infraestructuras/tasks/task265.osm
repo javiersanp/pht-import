@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27293' visible='true' lat='28.31709030156' lon='-16.68909819511'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hoya del Cedro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30385' visible='true' lat='28.31697107623' lon='-16.70232329735'>
+    <tag k='alt_name' v='EDAS Icod I' />
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAS Altos de Icod' />
+  </node>
+  <node id='-31511' visible='true' lat='28.31710947206' lon='-16.7020807469'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Deposito Interno EDAS Icod I' />
+  </node>
+</osm>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27911' visible='true' lat='28.40472538155' lon='-16.36322968912'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Medio Mundo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27913' visible='true' lat='28.40536182548' lon='-16.37979433059'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Candelaria' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27915' visible='true' lat='28.40039632008' lon='-16.37638210686'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Arepo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29371' visible='true' lat='28.40508829034' lon='-16.36304039394'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Medio Mundo 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

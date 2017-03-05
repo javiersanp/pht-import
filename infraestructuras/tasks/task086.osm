@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27749' visible='true' lat='28.45704272878' lon='-16.45410591969'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Atalaya' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27869' visible='true' lat='28.45693399205' lon='-16.44567934945'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas de la Matanza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28607' visible='true' lat='28.46606409568' lon='-16.4544541089'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Rojas 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28611' visible='true' lat='28.46663549952' lon='-16.45503387043'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Rojas 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28613' visible='true' lat='28.46301166095' lon='-16.45463699011'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco del Perro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29169' visible='true' lat='28.45806001232' lon='-16.46192204717'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Caletón 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29171' visible='true' lat='28.46244341975' lon='-16.4537611252'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Juana Vázquez' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29189' visible='true' lat='28.45823346226' lon='-16.46257802215'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Caletón 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29815' visible='true' lat='28.45497433266' lon='-16.44833845146'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Casa Nueva' />
+  </node>
+  <node id='-31349' visible='true' lat='28.45454083234' lon='-16.46102603167'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Caletón' />
+  </node>
+  <node id='-31371' visible='true' lat='28.45502521385' lon='-16.44864550625'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Pozo' />
+  </node>
+  <node id='-31393' visible='true' lat='28.46425567555' lon='-16.446310069'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Naranjos' />
+  </node>
+</osm>

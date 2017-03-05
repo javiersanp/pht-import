@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27815' visible='true' lat='28.36395848993' lon='-16.76994001572'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Casa de la Hoya' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27819' visible='true' lat='28.35934657388' lon='-16.7671905654'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Buen Viaje' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27821' visible='true' lat='28.36810151858' lon='-16.76918235515'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Volcán Poniente' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27823' visible='true' lat='28.3631991557' lon='-16.76237767328'>
+    <tag k='alt_name' v='Galería Jordana' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Higueritas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27853' visible='true' lat='28.36434101852' lon='-16.76061110997'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río Guadalupe' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28629' visible='true' lat='28.37047251325' lon='-16.76728311972'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Río 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28633' visible='true' lat='28.37061446388' lon='-16.76677531974'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Río 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28635' visible='true' lat='28.36838596958' lon='-16.76534060219'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Empresa Alta' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28637' visible='true' lat='28.36864867937' lon='-16.76526332874'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Empresa Baja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28639' visible='true' lat='28.36523474864' lon='-16.76895114671'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Lagarito' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28643' visible='true' lat='28.36679117041' lon='-16.76653852269'>
+    <tag k='alt_name' v='Galería la Atalaya' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Toscal' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28645' visible='true' lat='28.37160163247' lon='-16.75462949644'>
+    <tag k='alt_name' v='Galería Roque Manta' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Roquito' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28661' visible='true' lat='28.36612469474' lon='-16.76643565799'>
+    <tag k='alt_name' v='Galería Madre del Agua' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Cuevitas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28683' visible='true' lat='28.36668306308' lon='-16.76722031151'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Atalaya' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28695' visible='true' lat='28.36987770744' lon='-16.75043828775'>
+    <tag k='alt_name' v='Galería la Brevera' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Brieles' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29913' visible='true' lat='28.37061581493' lon='-16.76736711958'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Río II' />
+  </node>
+  <node id='-29915' visible='true' lat='28.37039549157' lon='-16.75157933128'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Viña Grande' />
+  </node>
+  <node id='-29921' visible='true' lat='28.37181844662' lon='-16.76439752495'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Reyes' />
+  </node>
+  <node id='-29937' visible='true' lat='28.37198568576' lon='-16.7654206125'>
+    <tag k='alt_name' v='Pozo El la Plaza' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Río I' />
+  </node>
+  <node id='-29941' visible='true' lat='28.37076263873' lon='-16.76996113296'>
+    <tag k='alt_name' v='Pozo José Damián' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Aguas' />
+  </node>
+  <node id='-29943' visible='true' lat='28.37215946904' lon='-16.75826082756'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Majuelo' />
+  </node>
+  <node id='-31099' visible='true' lat='28.36962354979' lon='-16.76036163389'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Nicolás' />
+  </node>
+  <node id='-31101' visible='true' lat='28.37131496822' lon='-16.7614608916'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Casco I' />
+  </node>
+  <node id='-31109' visible='true' lat='28.36835054188' lon='-16.76319741692'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Piedra Colorada' />
+  </node>
+  <node id='-31117' visible='true' lat='28.35969622624' lon='-16.75759625017'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Juan del Reparo I' />
+  </node>
+  <node id='-31129' visible='true' lat='28.36070979567' lon='-16.76784568216'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Tanque Bajo I' />
+  </node>
+  <node id='-31147' visible='true' lat='28.36061054808' lon='-16.76784403718'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Tanque Bajo II' />
+  </node>
+  <node id='-31915' visible='true' lat='28.37516830654' lon='-16.76425910315'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Piscinas de Garachico (Estación de Bombeo de' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31983' visible='true' lat='28.37134825007' lon='-16.76795063655'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Muelle' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

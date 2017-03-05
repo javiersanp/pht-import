@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29567' visible='true' lat='28.07699113148' lon='-16.56758492863'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Conde' />
+  </node>
+  <node id='-30281' visible='true' lat='28.07976095865' lon='-16.57790287775'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Cabuquero' />
+  </node>
+  <node id='-30529' visible='true' lat='28.08803826326' lon='-16.56440742249'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Cruz de Yaco' />
+  </node>
+  <node id='-30799' visible='true' lat='28.08657266314' lon='-16.56550560213'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Isidro' />
+  </node>
+  <node id='-31561' visible='true' lat='28.0819429448' lon='-16.56310809143'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Deposito Arqueta Rotura de Carga de San Isidro' />
+  </node>
+</osm>

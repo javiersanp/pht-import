@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27413' visible='true' lat='28.31399081787' lon='-16.85082443183'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Juan López' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28871' visible='true' lat='28.30927200451' lon='-16.83673210204'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Madre del Agua 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28873' visible='true' lat='28.30910793265' lon='-16.83953344535'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Pajareras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28897' visible='true' lat='28.31249104337' lon='-16.84228375273'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Vica 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29305' visible='true' lat='28.31687548535' lon='-16.84972206023'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Sagrero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31053' visible='true' lat='28.31048327854' lon='-16.84127022516'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Masca' />
+  </node>
+</osm>

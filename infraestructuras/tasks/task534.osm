@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29923' visible='true' lat='28.07296919555' lon='-16.70940864496'>
+    <tag k='alt_name' v='Pozo El Espino' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Mojón' />
+  </node>
+  <node id='-29925' visible='true' lat='28.08328044538' lon='-16.70539983212'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Rey' />
+  </node>
+  <node id='-29947' visible='true' lat='28.07069976658' lon='-16.71336120039'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Alemanes' />
+  </node>
+  <node id='-29949' visible='true' lat='28.07194871428' lon='-16.71018612429'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Espino' />
+  </node>
+  <node id='-29953' visible='true' lat='28.08433409766' lon='-16.71137962482'>
+    <tag k='alt_name' v='Pozo La Montañeta' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Caldera' />
+  </node>
+  <node id='-30419' visible='true' lat='28.08637968281' lon='-16.70728053252'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ERA Adeje - Arona' />
+  </node>
+  <node id='-30449' visible='true' lat='28.07042445383' lon='-16.71083350975'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa El Mojón' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-30883' visible='true' lat='28.07002455206' lon='-16.70598403619'>
+    <tag k='alt_name' v='Depósito el Mojón I' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Playa de las Américas' />
+  </node>
+  <node id='-30891' visible='true' lat='28.07026497129' lon='-16.70551979923'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Mojón II' />
+  </node>
+  <node id='-30893' visible='true' lat='28.06980268366' lon='-16.70640786565'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Mojón III' />
+  </node>
+  <node id='-30935' visible='true' lat='28.07888117072' lon='-16.72090897423'>
+    <tag k='alt_name' v='Depósito San Eugenio I' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Metálicos' />
+  </node>
+  <node id='-30937' visible='true' lat='28.07912658093' lon='-16.72077043048'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Eugenio III' />
+  </node>
+  <node id='-30939' visible='true' lat='28.08417904403' lon='-16.72016920505'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Eugenio I' />
+  </node>
+  <node id='-30969' visible='true' lat='28.07868938857' lon='-16.72108907426'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Eugenio II' />
+  </node>
+  <node id='-31563' visible='true' lat='28.08623983325' lon='-16.70618946703'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Deposito EDAR Adeje - Arona' />
+  </node>
+  <node id='-32047' visible='true' lat='28.08762927406' lon='-16.70622161526'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Adeje-Arona' />
+  </node>
+</osm>

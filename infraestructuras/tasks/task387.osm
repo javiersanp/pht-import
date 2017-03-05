@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28977' visible='true' lat='28.21743036845' lon='-16.7036045885'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de Chavao 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29023' visible='true' lat='28.21851509879' lon='-16.70128858972'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de Chavao 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

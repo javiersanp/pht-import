@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28765' visible='true' lat='28.39007784494' lon='-16.46070241634'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Atravesado 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28767' visible='true' lat='28.38939279906' lon='-16.4606215843'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Atravesado 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29153' visible='true' lat='28.38858896189' lon='-16.46151886556'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Atravesado 3' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

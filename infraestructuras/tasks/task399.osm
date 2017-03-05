@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28145' visible='true' lat='28.22061309449' lon='-16.45960160963'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto Azul 0 Río de la Zarza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28197' visible='true' lat='28.22335058078' lon='-16.45510436037'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Llaves de la Fuente' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28217' visible='true' lat='28.22955647852' lon='-16.45798072815'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tesoro de Fasnia' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29577' visible='true' lat='28.23137822589' lon='-16.44535890435'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Aldea de San Joaquín' />
+  </node>
+  <node id='-30143' visible='true' lat='28.21913064262' lon='-16.46066152695'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Lomo Oliva' />
+  </node>
+  <node id='-30229' visible='true' lat='28.21998647089' lon='-16.44466538167'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Portugues' />
+  </node>
+</osm>

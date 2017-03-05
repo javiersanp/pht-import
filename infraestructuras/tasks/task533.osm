@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30361' visible='true' lat='28.07189804181' lon='-16.72648535882'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Siam Park' />
+  </node>
+  <node id='-31863' visible='true' lat='28.0726282768' lon='-16.732276346'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Pueblo Canario' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31875' visible='true' lat='28.08091695335' lon='-16.73554345901'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Torviscas' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31877' visible='true' lat='28.07971635857' lon='-16.73485256972'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo La Pinta' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31879' visible='true' lat='28.07763798822' lon='-16.7357756409'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Puerto Colón' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31881' visible='true' lat='28.0832429648' lon='-16.73573350443'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Fañabé' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-32027' visible='true' lat='28.08682641645' lon='-16.73211755285'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Fañabé II' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

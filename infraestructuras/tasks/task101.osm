@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29331' visible='true' lat='28.44419096178' lon='-16.42165302922'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Baboseras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31385' visible='true' lat='28.44695624442' lon='-16.41177480112'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Calderetas' />
+  </node>
+  <node id='-31387' visible='true' lat='28.44819350245' lon='-16.40908519425'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Ravelo' />
+  </node>
+</osm>

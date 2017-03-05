@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29841' visible='true' lat='28.07671636208' lon='-16.61309651993'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Zocas' />
+  </node>
+  <node id='-30163' visible='true' lat='28.08485402288' lon='-16.62253965987'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Tamaide' />
+  </node>
+  <node id='-31581' visible='true' lat='28.08196218614' lon='-16.61750992091'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Charca la Felipa' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31639' visible='true' lat='28.08275547389' lon='-16.61375664387'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31643' visible='true' lat='28.07382529651' lon='-16.62101038926'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

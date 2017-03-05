@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27609' visible='true' lat='28.2611377213' lon='-16.46458759426'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de la Fuente 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27627' visible='true' lat='28.27064007772' lon='-16.46807148907'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Majada' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27647' visible='true' lat='28.25886570411' lon='-16.47944880744'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río del Hornito' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29273' visible='true' lat='28.26830984694' lon='-16.47242300958'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chamizo' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

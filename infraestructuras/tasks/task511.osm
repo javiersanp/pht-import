@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30807' visible='true' lat='28.11849220183' lon='-16.57991517066'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Barriada' />
+  </node>
+  <node id='-30809' visible='true' lat='28.12466253908' lon='-16.57938466241'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito de la Montaña' />
+  </node>
+  <node id='-30821' visible='true' lat='28.12007662656' lon='-16.57948031339'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Montaña del Lugar' />
+  </node>
+</osm>

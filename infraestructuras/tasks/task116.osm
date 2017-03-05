@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27861' visible='true' lat='28.43012231877' lon='-16.44208851331'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Linda Tapada' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27945' visible='true' lat='28.41693366679' lon='-16.43894932213'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Preferida' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27947' visible='true' lat='28.42149858007' lon='-16.44253310186'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de los Sebes' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

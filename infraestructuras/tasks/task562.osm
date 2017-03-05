@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29599' visible='true' lat='28.04579656831' lon='-16.62834136963'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Erales' />
+  </node>
+  <node id='-30291' visible='true' lat='28.0499338203' lon='-16.64091646803'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Guargacho' />
+  </node>
+  <node id='-30881' visible='true' lat='28.05007138812' lon='-16.64148824336'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Costa del Silencio' />
+  </node>
+</osm>

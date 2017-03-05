@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27319' visible='true' lat='28.34983972081' lon='-16.49930608645'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chimoche' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27507' visible='true' lat='28.35723597418' lon='-16.49229884873'>
+    <tag k='alt_name' v='Galería los Órganos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Moral' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27603' visible='true' lat='28.35715996928' lon='-16.49594009068'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Puente' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27655' visible='true' lat='28.35223811333' lon='-16.49622815735'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Pedro Gil' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28311' visible='true' lat='28.36101195057' lon='-16.49033149529'>
+    <tag k='alt_name' v='Galería el Tomadero' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Gagos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28887' visible='true' lat='28.35562804798' lon='-16.49325578785'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tanque 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28891' visible='true' lat='28.35338957117' lon='-16.49410184725'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Pasos 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28911' visible='true' lat='28.35285429261' lon='-16.49353323529'>
+    <tag k='alt_name' v='Galería Perdigón; Galería Escobón' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Perdigones' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28971' visible='true' lat='28.35525396541' lon='-16.49280164862'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tanque 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28995' visible='true' lat='28.35660855376' lon='-16.49190237807'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguamansa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29181' visible='true' lat='28.3527509697' lon='-16.49883688527'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Rajado' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31283' visible='true' lat='28.36018679421' lon='-16.49645186572'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Aguamansa' />
+  </node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27709' visible='true' lat='28.38352437129' lon='-16.42329219473'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chese Viejo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27933' visible='true' lat='28.39726035686' lon='-16.40857411417'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chirijer' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

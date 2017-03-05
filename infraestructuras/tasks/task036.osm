@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28405' visible='true' lat='28.53266655724' lon='-16.29605294082'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Zapata' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28493' visible='true' lat='28.53257099295' lon='-16.30038499459'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Quebrada' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28517' visible='true' lat='28.52798824246' lon='-16.28975162391'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Casa del Agua 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28521' visible='true' lat='28.52804665697' lon='-16.29025308804'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Casa del Agua 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28533' visible='true' lat='28.5262992848' lon='-16.29367570161'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Eucaliptus' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28769' visible='true' lat='28.52806804255' lon='-16.28323258184'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Llano de los Viejos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31499' visible='true' lat='28.52652482886' lon='-16.2841745042'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Llano los Viejos' />
+  </node>
+</osm>

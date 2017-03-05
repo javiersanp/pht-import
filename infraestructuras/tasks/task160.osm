@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28003' visible='true' lat='28.38268213887' lon='-16.56196665343'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Mar Dulce' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29097' visible='true' lat='28.39287626772' lon='-16.54650123255'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dóniz' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29887' visible='true' lat='28.39373639118' lon='-16.55577046255'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Vera' />
+  </node>
+  <node id='-30153' visible='true' lat='28.38498756236' lon='-16.55845930106'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco del Cerrudo' />
+  </node>
+  <node id='-31263' visible='true' lat='28.39529884087' lon='-16.55250694125'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Vera' />
+  </node>
+  <node id='-31265' visible='true' lat='28.38293009851' lon='-16.56159270918'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Mar Dulce' />
+  </node>
+  <node id='-31269' visible='true' lat='28.39070297527' lon='-16.55744070008'>
+    <tag k='alt_name' v='Depósito Los Afligidos' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Regulador del Puerto' />
+  </node>
+  <node id='-32103' visible='true' lat='28.37986149881' lon='-16.5600272715'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR La Marzagana II' />
+  </node>
+  <node id='-32105' visible='true' lat='28.38910847439' lon='-16.56348961667'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Sapur 13 la Montaña' />
+  </node>
+</osm>

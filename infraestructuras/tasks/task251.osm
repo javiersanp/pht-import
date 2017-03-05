@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27489' visible='true' lat='28.32786987946' lon='-16.44433692067'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Pino de las Vistas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27499' visible='true' lat='28.34191772522' lon='-16.44476156423'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Saleta' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27503' visible='true' lat='28.34122248398' lon='-16.44734324294'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Azul' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27573' visible='true' lat='28.32722422594' lon='-16.45498696579'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tamay' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27599' visible='true' lat='28.33426712355' lon='-16.45637836957'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Valle' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29183' visible='true' lat='28.34238601913' lon='-16.4575806474'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cuenca del Valle' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29187' visible='true' lat='28.3342682124' lon='-16.45627638001'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Valle 1' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

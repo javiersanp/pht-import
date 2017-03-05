@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27423' visible='true' lat='28.29001739598' lon='-16.83245587624'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Sauce 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29335' visible='true' lat='28.28701820333' lon='-16.83671692888'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Natero 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

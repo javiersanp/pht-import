@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30519' visible='true' lat='28.13518014929' lon='-16.55940046808'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Higuera II' />
+  </node>
+  <node id='-30813' visible='true' lat='28.13506365123' lon='-16.55932751243'>
+    <tag k='alt_name' v='Depósito Los Blanquitos' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Higuera' />
+  </node>
+</osm>

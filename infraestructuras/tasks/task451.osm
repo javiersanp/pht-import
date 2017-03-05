@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28057' visible='true' lat='28.16697947742' lon='-16.65819913124'>
+    <tag k='alt_name' v='Galería la Vica Alta' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Vica 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28107' visible='true' lat='28.17063799539' lon='-16.65866292437'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cruz de la Niña' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28949' visible='true' lat='28.16860073933' lon='-16.66441607621'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cuervo (Este)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28961' visible='true' lat='28.1688007514' lon='-16.66281007963'>
+    <tag k='alt_name' v='Galería el Cuervo' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Unión' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29015' visible='true' lat='28.16630610715' lon='-16.64669109552'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Magdalena' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29019' visible='true' lat='28.16855537553' lon='-16.66443574222'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cuervo (Oeste)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29031' visible='true' lat='28.16139233491' lon='-16.65527180679'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Coruja Alta' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29033' visible='true' lat='28.16108202491' lon='-16.66151964738'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Vica 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29035' visible='true' lat='28.16142830505' lon='-16.6552825438'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Coruja Baja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30909' visible='true' lat='28.16176471394' lon='-16.64834257585'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Salguero' />
+  </node>
+</osm>

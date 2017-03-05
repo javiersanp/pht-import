@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27769' visible='true' lat='28.53217258541' lon='-16.23079281399'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chabuco' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27273' visible='true' lat='28.31869778317' lon='-16.75550385772'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Montaña Negra' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31125' visible='true' lat='28.31917036165' lon='-16.75805096611'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Campamento Arenas Negras' />
+  </node>
+</osm>

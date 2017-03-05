@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28417' visible='true' lat='28.53334387351' lon='-16.35518322997'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Agua de Dios' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28439' visible='true' lat='28.54167712407' lon='-16.35939857006'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Milán' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29689' visible='true' lat='28.52787446427' lon='-16.34975834571'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Agua de Dios' />
+  </node>
+  <node id='-29703' visible='true' lat='28.53902661589' lon='-16.35910903058'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Tapias' />
+  </node>
+  <node id='-31443' visible='true' lat='28.52796743248' lon='-16.35853790478'>
+    <tag k='alt_name' v='Depósito Tejina' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Asomada' />
+  </node>
+  <node id='-31751' visible='true' lat='28.53503356835' lon='-16.35859788245'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Tejina' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

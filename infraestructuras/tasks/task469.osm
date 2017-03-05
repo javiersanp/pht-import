@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28055' visible='true' lat='28.15104486259' lon='-16.68453983007'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ifonche' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28123' visible='true' lat='28.14925109502' lon='-16.67405459766'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Milagro 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28955' visible='true' lat='28.15350114539' lon='-16.68294906559'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ifonche 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29173' visible='true' lat='28.15531016035' lon='-16.68262096496'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cueva de los Gases' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30483' visible='true' lat='28.14812553605' lon='-16.66718450125'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa Trevejos' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

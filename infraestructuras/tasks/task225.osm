@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27493' visible='true' lat='28.35510847039' lon='-16.43661492197'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Aderno 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27495' visible='true' lat='28.34569924323' lon='-16.43707995383'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Lomo Cambado' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27501' visible='true' lat='28.35244806081' lon='-16.43213092901'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Corral del Guanche' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27505' visible='true' lat='28.34727233867' lon='-16.42564457238'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Nuevo Caudal' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27581' visible='true' lat='28.35489457482' lon='-16.44148881655'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Pilones de la Granja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27611' visible='true' lat='28.34803835342' lon='-16.43949867037'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Drago 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27617' visible='true' lat='28.34421786938' lon='-16.43290802158'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Paso' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27621' visible='true' lat='28.35823608722' lon='-16.43957503202'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Piedra Cumplida' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27625' visible='true' lat='28.34527781358' lon='-16.42563833551'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Belleza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28923' visible='true' lat='28.3549216467' lon='-16.44148918229'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Pilones de la Granja 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29117' visible='true' lat='28.35360357173' lon='-16.42952443257'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Drago de Cartas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29357' visible='true' lat='28.36049978871' lon='-16.4251275088'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ajafoña' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29437' visible='true' lat='28.35454541936' lon='-16.43351600348'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tinerfe' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31541' visible='true' lat='28.356097515' lon='-16.4395359731'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Frailes' />
+  </node>
+  <node id='-31609' visible='true' lat='28.34770928639' lon='-16.42959850465'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Depósito Superior de los Eres' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

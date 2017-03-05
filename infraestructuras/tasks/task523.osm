@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28059' visible='true' lat='28.09975031182' lon='-16.65087446126'>
+    <tag k='alt_name' v='Galería Fuente del Valle' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente Bella' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28147' visible='true' lat='28.09547119414' lon='-16.64572034328'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas del Valle' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29877' visible='true' lat='28.09952455256' lon='-16.6598578239'>
+    <tag k='alt_name' v='Pozo El las Mesas' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Islote' />
+  </node>
+  <node id='-30101' visible='true' lat='28.09425444578' lon='-16.64783897471'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Lorenzo' />
+  </node>
+  <node id='-30867' visible='true' lat='28.10143496815' lon='-16.65337345457'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Valle San Lorenzo I' />
+  </node>
+  <node id='-30871' visible='true' lat='28.10094844112' lon='-16.65330492834'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Valle San Lorenzo II' />
+  </node>
+</osm>

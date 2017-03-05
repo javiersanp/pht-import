@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28157' visible='true' lat='28.20438838805' lon='-16.53439496485'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Contador' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28159' visible='true' lat='28.2047736555' lon='-16.53223044705'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río Contador' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28175' visible='true' lat='28.21091131588' lon='-16.52410611863'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Yedras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28177' visible='true' lat='28.21345525431' lon='-16.54112685604'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Madre del Agua 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

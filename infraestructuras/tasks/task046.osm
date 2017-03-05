@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29685' visible='true' lat='28.52381451074' lon='-16.38900835111'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Pino' />
+  </node>
+  <node id='-29797' visible='true' lat='28.52055402807' lon='-16.39188809855'>
+    <tag k='alt_name' v='Pozo La los López' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Cisterna' />
+  </node>
+  <node id='-29801' visible='true' lat='28.52034203614' lon='-16.4019709327'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Espinosa' />
+  </node>
+  <node id='-29823' visible='true' lat='28.51340112583' lon='-16.39677022434'>
+    <tag k='alt_name' v='Pozo Las Flores' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Luis Losada' />
+  </node>
+  <node id='-31397' visible='true' lat='28.50637130075' lon='-16.40457542355'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tagoro' />
+  </node>
+  <node id='-31451' visible='true' lat='28.51029290308' lon='-16.39711753274'>
+    <tag k='alt_name' v='Depósito Valle de Guerra' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Boquerón' />
+  </node>
+  <node id='-31529' visible='true' lat='28.5089317602' lon='-16.39695655139'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Garimba' />
+  </node>
+</osm>

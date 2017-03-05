@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27937' visible='true' lat='28.43328747287' lon='-16.30836856341'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco Grande' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30417' visible='true' lat='28.42135270592' lon='-16.31431663383'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ERA El Chorrillo' />
+  </node>
+  <node id='-30567' visible='true' lat='28.42876925378' lon='-16.31175370299'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Alisios' />
+  </node>
+  <node id='-30579' visible='true' lat='28.42914565947' lon='-16.30545884692'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Santa María del Mar' />
+  </node>
+  <node id='-30627' visible='true' lat='28.42927436144' lon='-16.31552737917'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Cuevas Blancas' />
+  </node>
+  <node id='-31553' visible='true' lat='28.42374495' lon='-16.31613282086'>
+    <tag k='alt_name' v='Deposito II el Chorrillo' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Deposito El Tablero' />
+  </node>
+</osm>

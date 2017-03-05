@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29539' visible='true' lat='28.293083124' lon='-16.38007693093'>
+    <tag k='alt_name' v='Pozo Las Valeras' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Puertito de Güímar' />
+  </node>
+  <node id='-30079' visible='true' lat='28.30323563982' lon='-16.38018754556'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Montañeta' />
+  </node>
+  <node id='-31841' visible='true' lat='28.29696752466' lon='-16.37167367254'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Puertito de Güímar' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28163' visible='true' lat='28.19269301063' lon='-16.55903254688'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Durazno' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28527' visible='true' lat='28.19271047785' lon='-16.55908373384'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Durazno 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

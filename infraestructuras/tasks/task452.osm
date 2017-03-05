@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28063' visible='true' lat='28.16357999369' lon='-16.63165893998'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Ramonal' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28075' visible='true' lat='28.16366117959' lon='-16.63695570962'>
+    <tag k='alt_name' v='Galería Fte Alta de la Candelaria' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de la Candelaria' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28121' visible='true' lat='28.16991306088' lon='-16.63867018629'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Peral 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28877' visible='true' lat='28.16357012103' lon='-16.63173007628'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Ramonal 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29147' visible='true' lat='28.16359779786' lon='-16.63167957754'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Ramonal 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29193' visible='true' lat='28.1704988485' lon='-16.63874022022'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Subsuelo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30151' visible='true' lat='28.16184831147' lon='-16.63610325086'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco del Chorrillo' />
+  </node>
+  <node id='-30907' visible='true' lat='28.16276874291' lon='-16.6383780189'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Chorrillo' />
+  </node>
+</osm>

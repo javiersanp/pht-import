@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29557' visible='true' lat='28.18704552269' lon='-16.7800546354'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Costa de Tejina' />
+  </node>
+  <node id='-30113' visible='true' lat='28.18010512398' lon='-16.7675548592'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Cuescaro I' />
+  </node>
+  <node id='-30187' visible='true' lat='28.17932330033' lon='-16.76729756525'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Cuescaro II' />
+  </node>
+  <node id='-30407' visible='true' lat='28.18713641171' lon='-16.78000521364'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAS Pozo Costa de Tejina' />
+  </node>
+  <node id='-30985' visible='true' lat='28.18579539503' lon='-16.77485973893'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Piedra Hincada' />
+  </node>
+  <node id='-31579' visible='true' lat='28.18023769045' lon='-16.78446394106'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31649' visible='true' lat='28.19365987719' lon='-16.78772234943'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31655' visible='true' lat='28.18916186734' lon='-16.76926226842'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa El Gallego' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31659' visible='true' lat='28.18531133809' lon='-16.77460729421'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31661' visible='true' lat='28.18501059305' lon='-16.77552919271'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31663' visible='true' lat='28.18428792404' lon='-16.77697374396'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31665' visible='true' lat='28.18377663944' lon='-16.77395046421'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31667' visible='true' lat='28.18099235713' lon='-16.77639981588'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31669' visible='true' lat='28.18162994311' lon='-16.7808102772'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31671' visible='true' lat='28.17894699266' lon='-16.77962512879'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

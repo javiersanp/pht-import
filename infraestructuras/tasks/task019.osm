@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28409' visible='true' lat='28.5506127368' lon='-16.3264876388'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Sauces 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28443' visible='true' lat='28.55085026488' lon='-16.33723347175'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Montiel' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28445' visible='true' lat='28.55973905232' lon='-16.32445534328'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tanquillo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28449' visible='true' lat='28.56069331625' lon='-16.32470240847'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tanquillo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28451' visible='true' lat='28.55376768902' lon='-16.32688495051'>
+    <tag k='alt_name' v='Galería Higuera de los Pájaros' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Pájaros' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28453' visible='true' lat='28.5517106061' lon='-16.32496815172'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cueva de la Cochina' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28465' visible='true' lat='28.55204810699' lon='-16.32737447329'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Sauces 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28471' visible='true' lat='28.55150366031' lon='-16.32767429327'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Sauces 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28477' visible='true' lat='28.55176719403' lon='-16.32379336908'>
+    <tag k='alt_name' v='Galería los Salto de Bebederos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Paredones' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28523' visible='true' lat='28.54820115916' lon='-16.32390208536'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Hoyas 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28525' visible='true' lat='28.55014085352' lon='-16.32397745614'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Hoyas 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29081' visible='true' lat='28.55592573451' lon='-16.33689895217'>
+    <tag k='alt_name' v='Galería el Castillo' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Lobo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29281' visible='true' lat='28.54913223899' lon='-16.32560026382'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Crucitas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29421' visible='true' lat='28.54900052996' lon='-16.33168033825'>
+    <tag k='alt_name' v='Galería Salto de la' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Pinoso Salto de Montiel' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29697' visible='true' lat='28.54926633471' lon='-16.33310445756'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Juan 2' />
+  </node>
+  <node id='-31435' visible='true' lat='28.55371376758' lon='-16.3415525973'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barranco San Juan' />
+  </node>
+  <node id='-31439' visible='true' lat='28.55308855665' lon='-16.33906078495'>
+    <tag k='alt_name' v='Depósito Bajamar' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Vernetta' />
+  </node>
+</osm>

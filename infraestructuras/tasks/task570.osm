@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30149' visible='true' lat='28.0230719497' lon='-16.67629843621'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Estrella' />
+  </node>
+  <node id='-30345' visible='true' lat='28.02233781876' lon='-16.66691006993'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Comunidad de Regantes las Galletas' />
+  </node>
+</osm>

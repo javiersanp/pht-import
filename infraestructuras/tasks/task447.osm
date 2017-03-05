@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28251' visible='true' lat='28.17350668998' lon='-16.73592589575'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Viña' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30927' visible='true' lat='28.17041762794' lon='-16.73042753558'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tijoco de Arriba' />
+  </node>
+  <node id='-30957' visible='true' lat='28.17192493742' lon='-16.72898526659'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tijoco Alto Nuevo' />
+  </node>
+  <node id='-30997' visible='true' lat='28.17655699434' lon='-16.74303311268'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Vera de Erques' />
+  </node>
+  <node id='-31617' visible='true' lat='28.15985826046' lon='-16.74397422299'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

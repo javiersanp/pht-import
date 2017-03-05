@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27865' visible='true' lat='28.46571100497' lon='-16.38717534545'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Abiertas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28271' visible='true' lat='28.45684693417' lon='-16.40226578041'>
+    <tag k='alt_name' v='Galería la Esperanza de Tacoronte' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Toledo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28437' visible='true' lat='28.45737057993' lon='-16.39522614465'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Huerta Bicho' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28505' visible='true' lat='28.45684640787' lon='-16.4023168351'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de Toledo' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

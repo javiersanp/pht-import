@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27295' visible='true' lat='28.35161849966' lon='-16.7108328537'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Reventón' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27297' visible='true' lat='28.34499199022' lon='-16.7117467019'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Longueras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27299' visible='true' lat='28.34739861432' lon='-16.71772227904'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canuto' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27301' visible='true' lat='28.34871694724' lon='-16.71479537675'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Guinderos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29021' visible='true' lat='28.3521580881' lon='-16.72173664744'>
+    <tag k='alt_name' v='Galería el Castañero' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Sabuguero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29065' visible='true' lat='28.34579246059' lon='-16.72841748464'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de la Vega' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30391' visible='true' lat='28.34933189308' lon='-16.71110222887'>
+    <tag k='alt_name' v='EDAS Icod II' />
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAS El Reventón' />
+  </node>
+  <node id='-30425' visible='true' lat='28.34892996251' lon='-16.7107693473'>
+    <tag k='alt_name' v='Central hidroeléctrica Icod' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Central hidroeléctrica El Reventón' />
+    <tag k='power' v='generator' />
+  </node>
+  <node id='-30493' visible='true' lat='28.35003963855' lon='-16.71079733856'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa El Reventón' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31165' visible='true' lat='28.35093384078' lon='-16.71289274828'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Reventón' />
+  </node>
+  <node id='-31175' visible='true' lat='28.34934906243' lon='-16.7290565525'>
+    <tag k='alt_name' v='Depósito El Rodeo' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Vega' />
+  </node>
+</osm>

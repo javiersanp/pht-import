@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28151' visible='true' lat='28.17264084026' lon='-16.5349091987'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Oportunidad' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28161' visible='true' lat='28.17968295625' lon='-16.53549865846'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pilar' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29415' visible='true' lat='28.17971025613' lon='-16.53547867743'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pilar Viejo' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

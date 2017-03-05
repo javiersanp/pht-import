@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27325' visible='true' lat='28.34757980341' lon='-16.56312566369'>
+    <tag k='alt_name' v='Galería Ladera de Lomo Alto' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Arenitas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28927' visible='true' lat='28.35812711191' lon='-16.55864826955'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de las Palomas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31239' visible='true' lat='28.34414394049' lon='-16.56210624048'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Arenitas' />
+  </node>
+  <node id='-31285' visible='true' lat='28.35042723321' lon='-16.54928281853'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Lajas I' />
+  </node>
+  <node id='-31293' visible='true' lat='28.35063396294' lon='-16.54935723224'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Lajas II' />
+  </node>
+</osm>

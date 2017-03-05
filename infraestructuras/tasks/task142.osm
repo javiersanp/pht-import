@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27907' visible='true' lat='28.40766153123' lon='-16.34660829258'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Nuestra Señora del Rosario' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27909' visible='true' lat='28.40301962396' lon='-16.36142158211'>
+    <tag k='alt_name' v='Galería la Segunda' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Arepo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29729' visible='true' lat='28.40299841329' lon='-16.3599310518'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco Hondo' />
+  </node>
+  <node id='-30649' visible='true' lat='28.40237465458' lon='-16.35641180897'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barranco Hondo II' />
+  </node>
+  <node id='-30667' visible='true' lat='28.40483118424' lon='-16.36257776852'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barranco Hondo I' />
+  </node>
+  <node id='-31757' visible='true' lat='28.40227489876' lon='-16.35555313387'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31759' visible='true' lat='28.40274637565' lon='-16.35624302079'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31767' visible='true' lat='28.40549409219' lon='-16.34947981608'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-31769' visible='true' lat='28.40708805711' lon='-16.34710121543'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

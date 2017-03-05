@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27369' visible='true' lat='28.34800655442' lon='-16.84525288329'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de Aljube' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27435' visible='true' lat='28.34647379957' lon='-16.84114617575'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Lindas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27439' visible='true' lat='28.33970479067' lon='-16.83853044751'>
+    <tag k='alt_name' v='Galería las Huertas' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hijuela de Taco' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29073' visible='true' lat='28.34418038944' lon='-16.83588405482'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Virgen de la Consolación' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31063' visible='true' lat='28.34690657136' lon='-16.84384658865'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Palomar' />
+  </node>
+</osm>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-31121' visible='true' lat='28.3350683948' lon='-16.75899603885'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Montañeta I' />
+  </node>
+  <node id='-31123' visible='true' lat='28.33397536754' lon='-16.7604773704'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Montañeta II' />
+  </node>
+  <node id='-31127' visible='true' lat='28.33332850554' lon='-16.76025251603'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Montañeta III' />
+  </node>
+</osm>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-31137' visible='true' lat='28.32479527129' lon='-16.78770943789'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San José de Los Llanos I' />
+  </node>
+  <node id='-31143' visible='true' lat='28.32446578593' lon='-16.78806087402'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San José de Los Llanos II' />
+  </node>
+  <node id='-31145' visible='true' lat='28.32269851528' lon='-16.78725621404'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Hoya' />
+  </node>
+</osm>

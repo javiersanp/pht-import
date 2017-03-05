@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27905' visible='true' lat='28.36965234008' lon='-16.54514391292'>
+    <tag k='alt_name' v='Galería Nuestra Señora del Rosario' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de la Vieja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28005' visible='true' lat='28.36990214167' lon='-16.53100528663'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Providencia' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28015' visible='true' lat='28.37480323' lon='-16.53897365515'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Habanera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28017' visible='true' lat='28.3776536963' lon='-16.53189214355'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Bolaños' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28021' visible='true' lat='28.36584714551' lon='-16.53044710887'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chasna' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28025' visible='true' lat='28.36532135446' lon='-16.53707165225'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Fernando 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28261' visible='true' lat='28.36786117316' lon='-16.54551589199'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente Vieja II' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28263' visible='true' lat='28.36792422209' lon='-16.54552700922'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente Vieja I' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29457' visible='true' lat='28.36295533182' lon='-16.53399706501'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Bautista' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31289' visible='true' lat='28.37789389124' lon='-16.53220172819'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Bolaños' />
+  </node>
+</osm>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27351' visible='true' lat='28.26221657214' lon='-16.75382295673'>
+    <tag k='alt_name' v='Galería Vergara de Guía' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas de Isora' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

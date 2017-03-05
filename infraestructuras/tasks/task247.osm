@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27321' visible='true' lat='28.33589391985' lon='-16.54158483121'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pastelito' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27561' visible='true' lat='28.32744239684' lon='-16.54114665498'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Roque Caramujo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27583' visible='true' lat='28.32705494214' lon='-16.53227766019'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pino de la Cruz' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27607' visible='true' lat='28.33003284201' lon='-16.53712450262'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Montaña de Enmedio' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

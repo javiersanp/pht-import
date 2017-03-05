@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27287' visible='true' lat='28.33396512306' lon='-16.68556052935'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Saltadero de las Cañadas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29347' visible='true' lat='28.33744804567' lon='-16.67388534759'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Charco de Andrés' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30503' visible='true' lat='28.33499706134' lon='-16.68457722938'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Correderas' />
+  </node>
+  <node id='-31177' visible='true' lat='28.33768642616' lon='-16.68603748177'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Redondo' />
+  </node>
+  <node id='-31189' visible='true' lat='28.33334360988' lon='-16.67594255657'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Hayas' />
+  </node>
+</osm>

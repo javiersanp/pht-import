@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29701' visible='true' lat='28.43677768902' lon='-16.3834691181'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Berros y Gavilanes' />
+  </node>
+  <node id='-29761' visible='true' lat='28.43676894852' lon='-16.38875801054'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Goteras' />
+  </node>
+  <node id='-31409' visible='true' lat='28.45182740854' lon='-16.39451001214'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Hornaca' />
+  </node>
+</osm>

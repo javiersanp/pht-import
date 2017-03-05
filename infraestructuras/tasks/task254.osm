@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29791' visible='true' lat='28.33721682223' lon='-16.39522400927'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Agustín' />
+  </node>
+  <node id='-29839' visible='true' lat='28.32918266945' lon='-16.38385812042'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Carretón' />
+  </node>
+  <node id='-29897' visible='true' lat='28.33163736068' lon='-16.39097917393'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Icocia' />
+  </node>
+  <node id='-29933' visible='true' lat='28.33702920685' lon='-16.38618359051'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Tierra de las Arenas' />
+  </node>
+  <node id='-30707' visible='true' lat='28.33734933867' lon='-16.39990794481'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Hidalga' />
+  </node>
+</osm>

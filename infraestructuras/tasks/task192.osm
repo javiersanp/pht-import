@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27875' visible='true' lat='28.37102017191' lon='-16.52142978794'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Barca del Valle' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29513' visible='true' lat='28.36799386876' lon='-16.511958561'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Huerta Vieja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31279' visible='true' lat='28.3670605116' lon='-16.51392479391'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Cañeño' />
+  </node>
+</osm>

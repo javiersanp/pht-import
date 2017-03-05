@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27315' visible='true' lat='28.3553595348' lon='-16.65858799647'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Frontón' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31171' visible='true' lat='28.35825724075' lon='-16.66148966147'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Florida' />
+  </node>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29477' visible='true' lat='28.14926045926' lon='-16.51017793515'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Gaspar García' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29771' visible='true' lat='28.14524062906' lon='-16.50558021503'>
+    <tag k='alt_name' v='Pozo Gaspar García' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Guasigre' />
+  </node>
+  <node id='-30169' visible='true' lat='28.15432070111' lon='-16.51535072221'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Rocío' />
+  </node>
+</osm>

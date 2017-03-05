@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29179' visible='true' lat='28.44835247382' lon='-16.469978003'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Negra' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29845' visible='true' lat='28.44254799811' lon='-16.47344087402'>
+    <tag k='alt_name' v='Pozo El la Sabina' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Risco' />
+  </node>
+  <node id='-29957' visible='true' lat='28.4352811391' lon='-16.47359542332'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Pedrera' />
+  </node>
+  <node id='-29979' visible='true' lat='28.43586782829' lon='-16.48355842376'>
+    <tag k='alt_name' v='Pozo La la Palmita' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Costa' />
+  </node>
+  <node id='-29983' visible='true' lat='28.43942032829' lon='-16.46554566178'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Chibana' />
+  </node>
+  <node id='-31325' visible='true' lat='28.43812597466' lon='-16.48338572401'>
+    <tag k='alt_name' v='Depósito Las Palmitas 2' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Urbanización ' />
+  </node>
+  <node id='-31343' visible='true' lat='28.43575704784' lon='-16.48130044545'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Palmitas 1' />
+  </node>
+</osm>

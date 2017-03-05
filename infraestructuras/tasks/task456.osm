@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28229' visible='true' lat='28.16830321388' lon='-16.55300609254'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Consuelo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28275' visible='true' lat='28.16858100093' lon='-16.55715516014'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Juan Dana' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

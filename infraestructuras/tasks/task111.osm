@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-31923' visible='true' lat='28.41733682707' lon='-16.54146665296'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo &quot;A&quot; del Puerto de la Cruz' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31929' visible='true' lat='28.41745503525' lon='-16.54616413073'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo &quot;B&quot; del Puerto de la Cruz' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

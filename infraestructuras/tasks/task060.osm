@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27785' visible='true' lat='28.48894422938' lon='-16.4210263977'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Guayonje' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29087' visible='true' lat='28.50297270106' lon='-16.42414654799'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Guanches' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30211' visible='true' lat='28.49022883909' lon='-16.41294270626'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Jerónimo' />
+  </node>
+  <node id='-31395' visible='true' lat='28.49993756299' lon='-16.4183641534'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Mesa del Mar' />
+  </node>
+  <node id='-31399' visible='true' lat='28.4955575365' lon='-16.4082223603'>
+    <tag k='alt_name' v='Depósito Castro Fariña' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Cruce Mesa del Mar' />
+  </node>
+</osm>

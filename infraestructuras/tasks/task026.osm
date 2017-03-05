@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27765' visible='true' lat='28.54474476058' lon='-16.19136236091'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Arroyo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29667' visible='true' lat='28.56059908502' lon='-16.19893193606'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Roque de los Placeres' />
+  </node>
+  <node id='-30609' visible='true' lat='28.55025870733' lon='-16.20065470118'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Bailadero III' />
+  </node>
+</osm>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27305' visible='true' lat='28.35336239286' lon='-16.73848657084'>
+    <tag k='alt_name' v='Galería el Brecito' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Encanto Mirabal' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27307' visible='true' lat='28.35524446304' lon='-16.7437506935'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Amadelfa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28993' visible='true' lat='28.34662115974' lon='-16.73067509781'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tigaiga' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

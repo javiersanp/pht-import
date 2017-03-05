@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30769' visible='true' lat='28.16810132838' lon='-16.43415992065'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Poris I' />
+  </node>
+  <node id='-31543' visible='true' lat='28.16715944476' lon='-16.42582654082'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Urbanización Casablanca' />
+  </node>
+  <node id='-31965' visible='true' lat='28.16451696346' lon='-16.43255391802'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Porís' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-32165' visible='true' lat='28.16655269785' lon='-16.42602218752'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR Casablanca' />
+  </node>
+  <node id='-32167' visible='true' lat='28.1659404367' lon='-16.43538379384'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR El Porís' />
+  </node>
+</osm>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29861' visible='true' lat='28.32245318443' lon='-16.37637631348'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Socorro' />
+  </node>
+  <node id='-29967' visible='true' lat='28.30847822209' lon='-16.37404453652'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Cueva Honda' />
+  </node>
+</osm>

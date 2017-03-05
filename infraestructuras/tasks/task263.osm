@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27337' visible='true' lat='28.32175350264' lon='-16.74240827952'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cruz del Niño' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

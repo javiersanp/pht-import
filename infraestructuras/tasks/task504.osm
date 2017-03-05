@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29603' visible='true' lat='28.12027303904' lon='-16.72204807863'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco Seco II' />
+  </node>
+  <node id='-30949' visible='true' lat='28.10648918262' lon='-16.71291185804'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Entrecanales' />
+  </node>
+</osm>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28085' visible='true' lat='28.25021141678' lon='-16.49594283572'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Ángeles' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28087' visible='true' lat='28.24005029808' lon='-16.49334491317'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cuevas de Cho Luis' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28091' visible='true' lat='28.23554973486' lon='-16.48975616686'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Martiño' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28095' visible='true' lat='28.23753807254' lon='-16.48867295864'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Marzana' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28127' visible='true' lat='28.23980131105' lon='-16.49465612747'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Fernando 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28203' visible='true' lat='28.25024860101' lon='-16.49088795792'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuentes del Nilo Azul' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28213' visible='true' lat='28.24539600197' lon='-16.48314596539'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Cazadores' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29177' visible='true' lat='28.25183728658' lon='-16.49334606518'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Santa Marta' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

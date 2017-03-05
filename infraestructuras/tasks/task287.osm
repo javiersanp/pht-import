@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27437' visible='true' lat='28.30247726527' lon='-16.80421127432'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Arrastraderos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31039' visible='true' lat='28.30249584176' lon='-16.80485396282'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Arrastraderos' />
+  </node>
+</osm>

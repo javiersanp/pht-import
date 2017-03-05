@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30311' visible='true' lat='28.08485553558' lon='-16.4953234999'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Unelco-Endesa Granadilla' />
+  </node>
+  <node id='-30337' visible='true' lat='28.08868797736' lon='-16.49314784442'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Portatil de Granadilla' />
+  </node>
+  <node id='-30339' visible='true' lat='28.08533166323' lon='-16.49469914244'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Central Eléctrica de Granadilla' />
+  </node>
+  <node id='-32209' visible='true' lat='28.08604332698' lon='-16.48984450381'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR Del Polígono Industrial de Granadilla' />
+  </node>
+</osm>

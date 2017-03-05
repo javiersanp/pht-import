@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27775' visible='true' lat='28.47639183943' lon='-16.30565124024'>
+    <tag k='alt_name' v='Galería Del Viejo; Galería Cañadas' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de las Viejas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28479' visible='true' lat='28.47869568042' lon='-16.30728327688'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Drago 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28499' visible='true' lat='28.48820398851' lon='-16.31242645959'>
+    <tag k='alt_name' v='Galería de la Carniceria' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Matadero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30309' visible='true' lat='28.4835006192' lon='-16.30316447527'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Hinojosa' />
+  </node>
+</osm>

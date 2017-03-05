@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27521' visible='true' lat='28.22055940706' lon='-16.75518947907'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Trinidad' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27547' visible='true' lat='28.22094852943' lon='-16.74876669926'>
+    <tag k='alt_name' v='Galería el Pilón' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chirche' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30999' visible='true' lat='28.22021168731' lon='-16.75766984242'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Chirche (Nuevo)' />
+  </node>
+</osm>

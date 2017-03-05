@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27475' visible='true' lat='28.29914478223' lon='-16.42953005118'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Acaymo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27477' visible='true' lat='28.30460956356' lon='-16.43855665623'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Almagre' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27481' visible='true' lat='28.30360730675' lon='-16.44202053746'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Nuestra Señora del Socorro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27509' visible='true' lat='28.29893445084' lon='-16.44266112661'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chamoco' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28969' visible='true' lat='28.30406836789' lon='-16.44280177238'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Cardos 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29215' visible='true' lat='28.30735023092' lon='-16.42939500353'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Canal 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29241' visible='true' lat='28.29842097472' lon='-16.43572019909'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Bartolomé' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30015' visible='true' lat='28.30402193104' lon='-16.42747414548'>
+    <tag k='alt_name' v='Pozo Los la Asomada' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Zarzales' />
+  </node>
+  <node id='-30035' visible='true' lat='28.30416264698' lon='-16.43642953996'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Ciruelo' />
+  </node>
+  <node id='-30723' visible='true' lat='28.30711749967' lon='-16.42489460912'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Juan' />
+  </node>
+</osm>

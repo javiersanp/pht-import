@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29277' visible='true' lat='28.37546637242' lon='-16.80761856639'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Sibora' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

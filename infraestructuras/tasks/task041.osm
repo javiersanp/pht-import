@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27761' visible='true' lat='28.54104848919' lon='-16.20011074341'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Bailadero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27763' visible='true' lat='28.5332956322' lon='-16.19806061505'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas de San Andrés' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29593' visible='true' lat='28.53343328195' lon='-16.19267614365'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Felipes' />
+  </node>
+  <node id='-30611' visible='true' lat='28.53368070444' lon='-16.19738021844'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Palmitos' />
+  </node>
+</osm>

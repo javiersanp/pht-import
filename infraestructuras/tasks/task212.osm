@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28973' visible='true' lat='28.35592792659' lon='-16.69383426949'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Sanguiñal' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29483' visible='true' lat='28.34071420053' lon='-16.69804019188'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Peña 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31167' visible='true' lat='28.352775454' lon='-16.70131297112'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Patita' />
+  </node>
+  <node id='-31169' visible='true' lat='28.35689345346' lon='-16.690207497'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Llanito Perera' />
+  </node>
+</osm>

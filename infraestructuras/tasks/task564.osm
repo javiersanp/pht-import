@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-31605' visible='true' lat='28.03794487643' lon='-16.5983583809'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Ciguaña II' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

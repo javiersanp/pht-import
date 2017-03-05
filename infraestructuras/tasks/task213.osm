@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27699' visible='true' lat='28.35729459065' lon='-16.68038930144'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Miradero de Santa Barbara' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31173' visible='true' lat='28.34604301192' lon='-16.67947764916'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Pino Valois' />
+  </node>
+</osm>

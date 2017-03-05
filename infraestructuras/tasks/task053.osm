@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27827' visible='true' lat='28.51989974516' lon='-16.24249380463'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Guañaque' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28801' visible='true' lat='28.51997887133' lon='-16.26035711144'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Brezos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30619' visible='true' lat='28.51495965307' lon='-16.24185344724'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Valle Grande' />
+  </node>
+</osm>

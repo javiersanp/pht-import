@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27329' visible='true' lat='28.35302883782' lon='-16.53069170239'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Pino Soler' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29447' visible='true' lat='28.3593077421' lon='-16.53412825647'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Furnia 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31281' visible='true' lat='28.35977683455' lon='-16.52771751065'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Chasna' />
+  </node>
+</osm>

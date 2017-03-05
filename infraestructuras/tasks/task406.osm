@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27527' visible='true' lat='28.20912789112' lon='-16.76059555619'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuentes de Ramallo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28859' visible='true' lat='28.20210445893' lon='-16.74810314588'>
+    <tag k='alt_name' v='Galería el Canalito' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canalizo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28861' visible='true' lat='28.20189433135' lon='-16.74830346528'>
+    <tag k='alt_name' v='Galería el Jaral' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canalizo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28997' visible='true' lat='28.20145945419' lon='-16.74914190368'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canalizo 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-30995' visible='true' lat='28.20553218363' lon='-16.75457699179'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Jaral (Nuevo)' />
+  </node>
+</osm>

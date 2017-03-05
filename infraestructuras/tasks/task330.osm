@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30735' visible='true' lat='28.27172401641' lon='-16.42969389965'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Lomo Montijo Viejo' />
+  </node>
+  <node id='-30737' visible='true' lat='28.28128265865' lon='-16.42357175127'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Lomo Mena Nuevo' />
+  </node>
+  <node id='-30747' visible='true' lat='28.2731426773' lon='-16.4303958866'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Lomo de Montijo Nuevo' />
+  </node>
+</osm>

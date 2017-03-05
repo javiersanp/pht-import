@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27859' visible='true' lat='28.43696774971' lon='-16.43911824475'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Bernabeles' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27867' visible='true' lat='28.44628167356' lon='-16.43655877909'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Empedrado' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27925' visible='true' lat='28.44016204783' lon='-16.42975747566'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Vica' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29329' visible='true' lat='28.45110170664' lon='-16.43650139147'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco Cabrera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-31359' visible='true' lat='28.44907795719' lon='-16.43413560296'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Camino Nuevo' />
+  </node>
+  <node id='-31361' visible='true' lat='28.44017848658' lon='-16.42991085661'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Vica Baja' />
+  </node>
+  <node id='-31363' visible='true' lat='28.43959729609' lon='-16.4293925099'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Zona Recreativa' />
+  </node>
+  <node id='-31365' visible='true' lat='28.43923998567' lon='-16.4290405468'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Vica Alta' />
+  </node>
+  <node id='-31369' visible='true' lat='28.4371729548' lon='-16.42820614651'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Vica Nuevo' />
+  </node>
+</osm>

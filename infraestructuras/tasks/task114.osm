@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27707' visible='true' lat='28.42530079592' lon='-16.46845468238'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cascada de la Vera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27731' visible='true' lat='28.4232840967' lon='-16.46716093753'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuentenueva' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27737' visible='true' lat='28.42412539976' lon='-16.47532954147'>
+    <tag k='alt_name' v='Galería Unión Santa Úrsula; Galería los Charcos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Loro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27739' visible='true' lat='28.41984716086' lon='-16.47702609717'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de la Fuente 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27741' visible='true' lat='28.41730320936' lon='-16.46774201662'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Chorrillo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27745' visible='true' lat='28.41648396426' lon='-16.48088918064'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Lances' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27755' visible='true' lat='28.42327859284' lon='-16.46683417546'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cuevas de la Vera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29207' visible='true' lat='28.42173383168' lon='-16.48362672935'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Farrobillo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29209' visible='true' lat='28.42187448733' lon='-16.47066353668'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ñamera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29217' visible='true' lat='28.4276490737' lon='-16.48078935784'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco Hondo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29985' visible='true' lat='28.41607667563' lon='-16.48099580353'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Lances' />
+  </node>
+  <node id='-29989' visible='true' lat='28.42333658908' lon='-16.46731479564'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Fuente Nueva' />
+  </node>
+  <node id='-29991' visible='true' lat='28.42757607566' lon='-16.48003285182'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Hondura de Santa Úrsula' />
+  </node>
+  <node id='-30001' visible='true' lat='28.42097169391' lon='-16.47735817678'>
+    <tag k='alt_name' v='Pozo La Río de la Fuente' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Caldera' />
+  </node>
+  <node id='-31303' visible='true' lat='28.41894951457' lon='-16.47990264235'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Farrobillo' />
+  </node>
+  <node id='-31307' visible='true' lat='28.42239778683' lon='-16.46816960113'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tosca de Ana Mª' />
+  </node>
+  <node id='-31313' visible='true' lat='28.41610544893' lon='-16.47917914055'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Tosqueras' />
+  </node>
+  <node id='-31327' visible='true' lat='28.43110954941' lon='-16.46960689291'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Horno la Teja' />
+  </node>
+  <node id='-31329' visible='true' lat='28.42765266579' lon='-16.47046776363'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Laureles' />
+  </node>
+  <node id='-31521' visible='true' lat='28.41882965417' lon='-16.48013577051'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Farrobillo II' />
+  </node>
+</osm>

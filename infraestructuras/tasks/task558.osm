@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29623' visible='true' lat='28.04992198975' lon='-16.70992896341'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Doña Guadalupe' />
+  </node>
+  <node id='-29647' visible='true' lat='28.05076532509' lon='-16.71467267406'>
+    <tag k='alt_name' v='Pozo Los el Puerto' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Cristianos' />
+  </node>
+  <node id='-30349' visible='true' lat='28.04596083498' lon='-16.71058853021'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Arona Gran Hotel' />
+  </node>
+  <node id='-31859' visible='true' lat='28.05047902156' lon='-16.72096508596'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Puerto' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31861' visible='true' lat='28.04559012366' lon='-16.71064369716'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Costamar' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31865' visible='true' lat='28.05047696756' lon='-16.71535984852'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Coronel' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31971' visible='true' lat='28.05024531223' lon='-16.72089015466'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Las Vistas' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

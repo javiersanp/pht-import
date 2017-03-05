@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29673' visible='true' lat='28.3775178541' lon='-16.72381955717'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Marcos I' />
+  </node>
+  <node id='-29675' visible='true' lat='28.37860304305' lon='-16.72078612463'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Marcos II' />
+  </node>
+  <node id='-29863' visible='true' lat='28.38398756479' lon='-16.71602593974'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Manzanos' />
+  </node>
+  <node id='-31825' visible='true' lat='28.37833519949' lon='-16.72127158925'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Nº8 - de Icod' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-31917' visible='true' lat='28.37922375805' lon='-16.72522468948'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Playa de San Marcos' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-32195' visible='true' lat='28.37830774474' lon='-16.72130175767'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR San Marcos' />
+  </node>
+</osm>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27469' visible='true' lat='28.27458986789' lon='-16.44467773612'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Corbacho' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27471' visible='true' lat='28.28526817731' lon='-16.44284388989'>
+    <tag k='alt_name' v='Galería Aguas de San José' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San José' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27643' visible='true' lat='28.27439287401' lon='-16.46234255086'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Herques y Amorín' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27653' visible='true' lat='28.28315702235' lon='-16.45722177706'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dos de Febrero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-27657' visible='true' lat='28.27426194251' lon='-16.45431752652'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Saltadero de Sosa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-29269' visible='true' lat='28.27445669663' lon='-16.46228225434'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Herques y Amorín 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

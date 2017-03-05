@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-28549' visible='true' lat='28.39913366282' lon='-16.59475588309'>
+    <tag k='alt_name' v='Galería Gindaste' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dona Faustina' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28733' visible='true' lat='28.39761753939' lon='-16.59011999968'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Galería 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28771' visible='true' lat='28.3976318192' lon='-16.59198793952'>
+    <tag k='alt_name' v='Galería el Túnel; Galería Galerias del' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Rambla de Castro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28777' visible='true' lat='28.39733746023' lon='-16.59014643639'>
+    <tag k='alt_name' v='Galería Sauces' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Naciente del Barranco' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28795' visible='true' lat='28.39832001617' lon='-16.58715026925'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 9 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28817' visible='true' lat='28.39744121321' lon='-16.59285261179'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Castillo de Castro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28819' visible='true' lat='28.39784117335' lon='-16.59337910838'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Piedra del Molino' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28823' visible='true' lat='28.39779819574' lon='-16.58778548216'>
+    <tag k='alt_name' v='Galería Siete Fuentes' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Playa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-28833' visible='true' lat='28.3976912423' lon='-16.59076408842'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Castillo de la Fajana' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

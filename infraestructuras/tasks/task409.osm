@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-28135' visible='true' lat='28.19732920379' lon='-16.69948597167'>
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería la Canal 1' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

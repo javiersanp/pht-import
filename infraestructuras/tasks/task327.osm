@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-27633' visible='true' lat='28.27464362818' lon='-16.48759825571'>
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería el Riscadero' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

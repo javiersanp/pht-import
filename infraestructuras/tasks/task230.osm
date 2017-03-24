@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-30497' visible='true' lat='28.33723101257' lon='-16.87834779956'>
-    <tag k='landuse' v='reservoir' />
-    <tag k='name' v='Balsa Teno Alto' />
-    <tag k='reservoir_type' v='water_storage' />
-  </node>
-</osm>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-31003' visible='true' lat='28.26489122878' lon='-16.74722091727'>
-    <tag k='building' v='yes' />
-    <tag k='content' v='water' />
-    <tag k='man_made' v='reservoir_covered' />
-    <tag k='name' v='Depósito Parque Recreativo' />
-  </node>
-</osm>

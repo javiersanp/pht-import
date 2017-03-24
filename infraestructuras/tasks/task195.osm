@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-27401' visible='true' lat='28.36478629803' lon='-16.44574465892'>
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería San Pedro' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

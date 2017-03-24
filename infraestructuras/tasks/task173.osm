@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-30325' visible='true' lat='28.36173124309' lon='-16.91019049523'>
-    <tag k='alt_name' v='EDAM Punta de Teno I' />
-    <tag k='landuse' v='industrial' />
-    <tag k='man_made' v='water_works' />
-    <tag k='name' v='EDAM Rural Teno S.L.' />
-  </node>
-</osm>

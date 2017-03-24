@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-29373' visible='true' lat='28.39926199335' lon='-16.40701853541'>
-    <tag k='alt_name' v='Galería Catorce de Abril' />
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería Chaboco del Gato' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

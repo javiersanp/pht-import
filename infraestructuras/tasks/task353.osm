@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-27637' visible='true' lat='28.25622508826' lon='-16.45132050878'>
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería Cercado de la Viña' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

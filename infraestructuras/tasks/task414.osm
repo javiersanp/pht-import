@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-28901' visible='true' lat='28.20572636816' lon='-16.60037057123'>
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería Corralito' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

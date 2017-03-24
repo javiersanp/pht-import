@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-27463' visible='true' lat='28.31913355707' lon='-16.42457544947'>
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería el Campanario' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

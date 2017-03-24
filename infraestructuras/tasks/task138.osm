@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-28519' visible='true' lat='28.39768956286' lon='-16.44088365426'>
-    <tag k='man_made' v='adit' />
-    <tag k='name' v='Galería Isarda' />
-    <tag k='resource' v='water' />
-  </node>
-</osm>

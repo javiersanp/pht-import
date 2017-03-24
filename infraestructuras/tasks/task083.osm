@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77423' visible='true' lat='28.38196566563' lon='-16.35667244943'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Central Eléctrica las Caletillas (EDAM. Central' />
+  </node>
+  <node id='-77779' visible='true' lat='28.3974626373' lon='-16.35935002778'>
+    <tag k='alt_name' v='Depósito Romano' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barranco Hondo Nuevo' />
+  </node>
+  <node id='-77781' visible='true' lat='28.39795912853' lon='-16.36205095192'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barranco Hondo Viejo (Alto)' />
+  </node>
+  <node id='-77787' visible='true' lat='28.39436771475' lon='-16.35019618024'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Rubens Marichal' />
+  </node>
+</osm>

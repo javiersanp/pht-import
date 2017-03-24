@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74807' visible='true' lat='28.41698862603' lon='-16.46090829447'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería María García' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74809' visible='true' lat='28.42189868477' lon='-16.46423232118'>
+    <tag k='alt_name' v='Galería los Barbusanos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de los Leres' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74811' visible='true' lat='28.42096622291' lon='-16.45861489355'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Chofillo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74819' visible='true' lat='28.41563383321' lon='-16.4508754164'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dornajos 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74827' visible='true' lat='28.4169200493' lon='-16.46057047757'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Unión de María García' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74971' visible='true' lat='28.4250143606' lon='-16.44716468671'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Ciruelo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75021' visible='true' lat='28.43140419933' lon='-16.4463123235'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de los Frailes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78423' visible='true' lat='28.43107344754' lon='-16.4645832258'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Juan' />
+  </node>
+  <node id='-78429' visible='true' lat='28.429032045' lon='-16.45548906859'>
+    <tag k='alt_name' v='Depósito Barranco Marta' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Lajas' />
+  </node>
+  <node id='-78431' visible='true' lat='28.42875019317' lon='-16.45652658045'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Lajas' />
+  </node>
+  <node id='-78433' visible='true' lat='28.42073274728' lon='-16.45766228193'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Mardones' />
+  </node>
+  <node id='-78437' visible='true' lat='28.42844393891' lon='-16.45984046177'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Fuente Tanque' />
+  </node>
+</osm>

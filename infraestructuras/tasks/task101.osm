@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75035' visible='true' lat='28.41802160485' lon='-16.37649770731'>
+    <tag k='alt_name' v='Galería Fuente del Frontón' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Benijo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76401' visible='true' lat='28.42502303729' lon='-16.38294869425'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Pasadillas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76403' visible='true' lat='28.43442483036' lon='-16.3760769347'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Samarines' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77757' visible='true' lat='28.42435662173' lon='-16.36941275167'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Escuela Hogar' />
+  </node>
+</osm>

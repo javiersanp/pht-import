@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75169' visible='true' lat='28.10632386123' lon='-16.63326490692'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tapaditos del Ebro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75319' visible='true' lat='28.09755550324' lon='-16.64350293283'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Banana 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77613' visible='true' lat='28.09656894521' lon='-16.63619073001'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Roque Tapado' />
+  </node>
+  <node id='-77929' visible='true' lat='28.09725877569' lon='-16.63283246153'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Charca Jiménez' />
+  </node>
+  <node id='-77933' visible='true' lat='28.10391082332' lon='-16.62595102171'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Ancones' />
+  </node>
+  <node id='-78691' visible='true' lat='28.0970591686' lon='-16.63292103641'>
+    <tag k='alt_name' v='Presa Tamadite' />
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa de Jiménez' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78729' visible='true' lat='28.09241852283' lon='-16.63003175607'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78887' visible='true' lat='28.08883474738' lon='-16.63918747384'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-79171' visible='true' lat='28.0887287532' lon='-16.62990477006'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR El Roque' />
+  </node>
+  <node id='-79173' visible='true' lat='28.09264915617' lon='-16.62352194211'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Tamaide' />
+  </node>
+</osm>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75073' visible='true' lat='28.39862134397' lon='-16.49264360602'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Rosa Aguilar' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75809' visible='true' lat='28.41184727115' lon='-16.49801458365'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Tosquita 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75815' visible='true' lat='28.40378839651' lon='-16.49878919821'>
+    <tag k='alt_name' v='Galería Intermedia' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Entremedio' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75827' visible='true' lat='28.41178343186' lon='-16.49807493177'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Tosquita 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76257' visible='true' lat='28.4008164839' lon='-16.49410331423'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Brezo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76311' visible='true' lat='28.41326701655' lon='-16.49775895189'>
+    <tag k='alt_name' v='Galería el Majuelo' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Majuela' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76317' visible='true' lat='28.41158463454' lon='-16.48739482199'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de la Zarza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77103' visible='true' lat='28.41325455021' lon='-16.49889185349'>
+    <tag k='alt_name' v='Pozo Tosquita' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Majuelo' />
+  </node>
+  <node id='-78393' visible='true' lat='28.41165884973' lon='-16.50446322388'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Casa Blanca' />
+  </node>
+  <node id='-78397' visible='true' lat='28.41046326803' lon='-16.50076137434'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tamaide' />
+  </node>
+  <node id='-78407' visible='true' lat='28.40269661147' lon='-16.49466045303'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Pino Alto' />
+  </node>
+  <node id='-78411' visible='true' lat='28.41297724914' lon='-16.49784674519'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Tosquita' />
+  </node>
+</osm>

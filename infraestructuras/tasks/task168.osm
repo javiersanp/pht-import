@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-79261' visible='true' lat='28.14477052289' lon='-16.44102759212'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR Playa de Abades' />
+  </node>
+</osm>

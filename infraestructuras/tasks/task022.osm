@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76641' visible='true' lat='28.50033669031' lon='-16.20596384218'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Capilla' />
+  </node>
+  <node id='-77415' visible='true' lat='28.49378689229' lon='-16.21477757047'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM de Santa Cruz de Tenerife' />
+  </node>
+  <node id='-77733' visible='true' lat='28.49410895725' lon='-16.21812199884'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito J.O.P (Dique del Este)' />
+  </node>
+  <node id='-78665' visible='true' lat='28.49390019448' lon='-16.21522838571'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Santa Cruz' />
+  </node>
+  <node id='-78919' visible='true' lat='28.4951578578' lon='-16.2168978551'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Cueva Bermeja' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

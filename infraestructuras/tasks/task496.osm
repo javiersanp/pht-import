@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77153' visible='true' lat='28.10860998737' lon='-16.74724621374'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Caleta' />
+  </node>
+  <node id='-77599' visible='true' lat='28.10765342593' lon='-16.74724088738'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Tablero' />
+  </node>
+  <node id='-78687' visible='true' lat='28.12221703848' lon='-16.76573894682'>
+    <tag k='alt_name' v='Presa Nueva' />
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa de Curbelo' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76175' visible='true' lat='28.49867042144' lon='-16.42561100226'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Moreno' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76589' visible='true' lat='28.49246484917' lon='-16.42697823131'>
+    <tag k='alt_name' v='Galería Morra de Guayonge' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Hondura' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76591' visible='true' lat='28.49244572911' lon='-16.42708013108'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Hondura 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-79023' visible='true' lat='28.4898483449' lon='-16.42604407939'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Jardín del Sol' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

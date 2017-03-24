@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74973' visible='true' lat='28.37154524496' lon='-16.48859097623'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de los Helechos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74983' visible='true' lat='28.3743857014' lon='-16.49623275684'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Pinolere' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74985' visible='true' lat='28.36907997538' lon='-16.49942347549'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Pasada de Montelongo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74987' visible='true' lat='28.36842898978' lon='-16.49706749289'>
+    <tag k='alt_name' v='Galería Risco de la Vera de los Villares' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Velo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75409' visible='true' lat='28.36110884508' lon='-16.48558848706'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Madre del Agua' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76571' visible='true' lat='28.37641688069' lon='-16.49700618479'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Rosa Pena' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76573' visible='true' lat='28.37221979722' lon='-16.49375340643'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Tumba' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76579' visible='true' lat='28.36479012754' lon='-16.49640421554'>
+    <tag k='alt_name' v='Galería Salto de Aguamansa' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de las Vacas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76583' visible='true' lat='28.37217012706' lon='-16.50155874254'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Pasada de Montenegro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77555' visible='true' lat='28.36738761587' lon='-16.4965631049'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa Aguamansa' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

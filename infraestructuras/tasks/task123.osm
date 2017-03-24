@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77371' visible='true' lat='28.50051681219' lon='-16.38495361405'>
+    <tag k='alt_name' v='Pozo Troviscal' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Garimba' />
+  </node>
+</osm>

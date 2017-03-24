@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76629' visible='true' lat='28.07022382674' lon='-16.63928131896'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Cabuquero' />
+  </node>
+  <node id='-76687' visible='true' lat='28.05394814959' lon='-16.62666351402'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Rastrabarrigas' />
+  </node>
+  <node id='-76689' visible='true' lat='28.05285592189' lon='-16.63276120466'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Laguneta' />
+  </node>
+  <node id='-78737' visible='true' lat='28.0681101538' lon='-16.63109930381'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

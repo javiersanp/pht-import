@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-78147' visible='true' lat='28.34236067192' lon='-16.88916845046'>
+    <tag k='alt_name' v='Depósito La Zahorra' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Teno II' />
+  </node>
+  <node id='-78151' visible='true' lat='28.33817332108' lon='-16.88003711378'>
+    <tag k='alt_name' v='Depósito La Siete' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Teno I' />
+  </node>
+  <node id='-78153' visible='true' lat='28.33839547718' lon='-16.87701173724'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Mesita' />
+  </node>
+</osm>

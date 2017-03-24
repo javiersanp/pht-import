@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75085' visible='true' lat='28.39921277546' lon='-16.5368460888'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Nicolás 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76919' visible='true' lat='28.40277422782' lon='-16.54512415667'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Horca' />
+  </node>
+  <node id='-76923' visible='true' lat='28.40265403228' lon='-16.53820222183'>
+    <tag k='alt_name' v='Pozo El Zarate' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Durazno' />
+  </node>
+  <node id='-76983' visible='true' lat='28.41140379335' lon='-16.5441776086'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Tapias' />
+  </node>
+  <node id='-77121' visible='true' lat='28.40965480709' lon='-16.53042321085'>
+    <tag k='alt_name' v='Pozo Los Oravales; Pozo Acevedo' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Padal' />
+  </node>
+  <node id='-78347' visible='true' lat='28.40247055548' lon='-16.54484416805'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Horca' />
+  </node>
+  <node id='-78351' visible='true' lat='28.39868227158' lon='-16.53747123015'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Nicolás' />
+  </node>
+  <node id='-78359' visible='true' lat='28.39778952008' lon='-16.53740731066'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito D. Urbanización' />
+  </node>
+  <node id='-79199' visible='true' lat='28.39736753777' lon='-16.54598468707'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Polígono San Jerónimo' />
+  </node>
+  <node id='-79201' visible='true' lat='28.41119386151' lon='-16.53880537028'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Botánico' />
+  </node>
+</osm>

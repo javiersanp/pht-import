@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77521' visible='true' lat='28.4468227921' lon='-16.31521350537'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo EB el Sobradillo' />
+    <tag k='pumping_station' v='water' />
+  </node>
+  <node id='-77537' visible='true' lat='28.43519890504' lon='-16.31885779406'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo para Riego la Gallega' />
+    <tag k='pumping_station' v='water' />
+  </node>
+  <node id='-77665' visible='true' lat='28.44213799787' lon='-16.30966196042'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barranco Grande II' />
+  </node>
+  <node id='-77669' visible='true' lat='28.44097169527' lon='-16.30987223559'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Barranco Grande I' />
+  </node>
+  <node id='-77675' visible='true' lat='28.44687565495' lon='-16.31534690991'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Sobradillo' />
+  </node>
+  <node id='-78541' visible='true' lat='28.44993138081' lon='-16.30355937178'>
+    <tag k='alt_name' v='Depósito Cardonal' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Nicolás Castro' />
+  </node>
+  <node id='-78593' visible='true' lat='28.45237288854' lon='-16.30495774477'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Montaña Pacho II' />
+  </node>
+</osm>

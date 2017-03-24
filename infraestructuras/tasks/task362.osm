@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-79151' visible='true' lat='28.0072903221' lon='-16.63936462561'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Urbanización Amarilla Bay' />
+  </node>
+</osm>

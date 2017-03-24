@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74425' visible='true' lat='28.34081062571' lon='-16.58661069141'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Unión de la Zarza' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

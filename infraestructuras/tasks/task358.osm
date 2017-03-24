@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74367' visible='true' lat='28.35226686312' lon='-16.61550922436'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Riscos de la Fortaleza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74371' visible='true' lat='28.35636859452' lon='-16.61893803501'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Esperanza 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74373' visible='true' lat='28.35517705291' lon='-16.62578590146'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Bilbao' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74377' visible='true' lat='28.34779866446' lon='-16.62621415583'>
+    <tag k='alt_name' v='Galería Rabasa' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Obispo' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

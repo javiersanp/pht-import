@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74525' visible='true' lat='28.30388557413' lon='-16.80280752071'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Señor del Valle' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74553' visible='true' lat='28.31014933456' lon='-16.79795733399'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Fernando 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75959' visible='true' lat='28.3169940365' lon='-16.80037720171'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Loros' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78119' visible='true' lat='28.31000985407' lon='-16.79895430996'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Valle Arriba' />
+  </node>
+  <node id='-78129' visible='true' lat='28.30827489958' lon='-16.80117864664'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósitos Antiguos' />
+  </node>
+</osm>

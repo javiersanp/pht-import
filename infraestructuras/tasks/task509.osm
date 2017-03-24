@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74395' visible='true' lat='28.34829707978' lon='-16.7618866875'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cerca' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78211' visible='true' lat='28.35104356204' lon='-16.76095272002'>
+    <tag k='alt_name' v='Depósito Las Cercas' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Juan del Reparo II' />
+  </node>
+  <node id='-78601' visible='true' lat='28.35639615264' lon='-16.75807236671'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Cumbrera' />
+  </node>
+</osm>

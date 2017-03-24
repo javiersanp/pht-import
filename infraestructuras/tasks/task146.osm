@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-79047' visible='true' lat='28.14238259673' lon='-16.43980430576'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Abades' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

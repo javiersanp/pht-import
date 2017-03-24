@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77631' visible='true' lat='28.57048116499' lon='-16.19902350999'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Almáciga' />
+  </node>
+  <node id='-78915' visible='true' lat='28.57408323174' lon='-16.19072149207'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Benijos' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79097' visible='true' lat='28.57204220861' lon='-16.19497210001'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo 2 de Almáciga' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

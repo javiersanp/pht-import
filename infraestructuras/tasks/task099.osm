@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75011' visible='true' lat='28.39124824198' lon='-16.38226508017'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Mocanes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75023' visible='true' lat='28.39084822708' lon='-16.37004324499'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Gambuesas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75043' visible='true' lat='28.3932154106' lon='-16.37695272446'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Danubio' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76811' visible='true' lat='28.38506349975' lon='-16.36729502193'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Planta' />
+  </node>
+  <node id='-77777' visible='true' lat='28.38487052566' lon='-16.37838591107'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Igueste' />
+  </node>
+</osm>

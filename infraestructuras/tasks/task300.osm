@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77051' visible='true' lat='28.10553758912' lon='-16.57157240488'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Capitana' />
+  </node>
+  <node id='-77053' visible='true' lat='28.08956565019' lon='-16.56817467091'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Yaco' />
+  </node>
+  <node id='-77895' visible='true' lat='28.09590504074' lon='-16.57415959761'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Vista Gorda' />
+  </node>
+</osm>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75325' visible='true' lat='28.14940231172' lon='-16.60023478628'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tizón' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75327' visible='true' lat='28.15120158313' lon='-16.58598545112'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Begoña' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76433' visible='true' lat='28.15631307341' lon='-16.59115237584'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco de Silvestre' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76553' visible='true' lat='28.14928429178' lon='-16.6002941261'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tizón 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

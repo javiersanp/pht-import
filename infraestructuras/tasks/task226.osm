@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74977' visible='true' lat='28.3796963538' lon='-16.48928646959'>
+    <tag k='alt_name' v='Galería Hondura de la' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Honduras de Don Nicandro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74981' visible='true' lat='28.38229645465' lon='-16.50399750074'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Lino' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74989' visible='true' lat='28.38322955215' lon='-16.49712228377'>
+    <tag k='alt_name' v='Galería Hondura de la Florida' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Concha Marina' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75065' visible='true' lat='28.38361413884' lon='-16.49497441813'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente Benítez' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75071' visible='true' lat='28.38721928656' lon='-16.4995255816'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Florida Baja 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75079' visible='true' lat='28.3908954135' lon='-16.50253698888'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barbuzano' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76355' visible='true' lat='28.39643121178' lon='-16.49072474604'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de la Esperanza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76357' visible='true' lat='28.38772176486' lon='-16.49897135349'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Lajita' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

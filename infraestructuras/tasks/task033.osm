@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-79229' visible='true' lat='28.4533471919' lon='-16.26000509914'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Cepsa' />
+  </node>
+</osm>

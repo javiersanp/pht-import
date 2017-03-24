@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76565' visible='true' lat='28.11662471973' lon='-16.55935583285'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Remolinos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76683' visible='true' lat='28.11861939094' lon='-16.55139364733'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Pinito' />
+  </node>
+  <node id='-77333' visible='true' lat='28.12503605191' lon='-16.54663003872'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco de los Helechos-Entemanser' />
+  </node>
+</osm>

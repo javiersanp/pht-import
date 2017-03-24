@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74575' visible='true' lat='28.35000622525' lon='-16.41706037431'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cueva de las Colmenas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74589' visible='true' lat='28.35795767225' lon='-16.41269714704'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Barrero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76785' visible='true' lat='28.35172505111' lon='-16.40970699566'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Cerrillar' />
+  </node>
+  <node id='-77793' visible='true' lat='28.35427887667' lon='-16.40711869913'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Malpaís' />
+  </node>
+  <node id='-77809' visible='true' lat='28.34605008001' lon='-16.41735470531'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tono' />
+  </node>
+  <node id='-78845' visible='true' lat='28.35405321663' lon='-16.40537110313'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Barranco de Tapia 1' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78847' visible='true' lat='28.35689203789' lon='-16.40839789487'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Barranco de Tapia 2' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

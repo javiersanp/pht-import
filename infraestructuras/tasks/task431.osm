@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77439' visible='true' lat='28.0055121745' lon='-16.68490372435'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Finca el Fraile' />
+  </node>
+  <node id='-77577' visible='true' lat='28.00720329893' lon='-16.68315050134'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa Bonny' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

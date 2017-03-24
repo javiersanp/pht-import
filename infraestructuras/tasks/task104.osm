@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77311' visible='true' lat='28.48690762001' lon='-16.36614326918'>
+    <tag k='alt_name' v='Pozo Ebro' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Cruz Chica' />
+  </node>
+  <node id='-77315' visible='true' lat='28.47973034416' lon='-16.36905397874'>
+    <tag k='alt_name' v='Pozo El Peñón' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Río Ebro I' />
+  </node>
+  <node id='-77319' visible='true' lat='28.47949999839' lon='-16.37399486521'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Peñón' />
+  </node>
+  <node id='-78495' visible='true' lat='28.48084484727' lon='-16.37933413236'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Peñón' />
+  </node>
+  <node id='-78505' visible='true' lat='28.48159851358' lon='-16.37977294697'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Peñón Nuevo' />
+  </node>
+  <node id='-78579' visible='true' lat='28.47990321334' lon='-16.36981209069'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Davila' />
+  </node>
+</osm>

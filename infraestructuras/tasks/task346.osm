@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75143' visible='true' lat='28.12858581481' lon='-16.61523685548'>
+    <tag k='alt_name' v='Galería la Orchilla' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Andenes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75191' visible='true' lat='28.13463862072' lon='-16.62008217741'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río San Miguel' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

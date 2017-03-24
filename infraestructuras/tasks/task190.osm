@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77057' visible='true' lat='28.14241133425' lon='-16.46518891549'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Tagoro' />
+  </node>
+  <node id='-77361' visible='true' lat='28.13458497196' lon='-16.47624124623'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Mentidero' />
+  </node>
+  <node id='-77617' visible='true' lat='28.13347479639' lon='-16.46108641427'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Jardín del Atlántico' />
+  </node>
+</osm>

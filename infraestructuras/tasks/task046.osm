@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74851' visible='true' lat='28.51052602253' lon='-16.27617426719'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Porvenir de Tahodio' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74863' visible='true' lat='28.52471803196' lon='-16.2641537062'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Pinos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75443' visible='true' lat='28.5244542509' lon='-16.28170703775'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Clavijo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75447' visible='true' lat='28.52471522154' lon='-16.28083134837'>
+    <tag k='alt_name' v='Galería Clavijo 2' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de Clavijo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75449' visible='true' lat='28.52495816737' lon='-16.28186642142'>
+    <tag k='alt_name' v='Galería Clavijo 3' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de Clavijo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75891' visible='true' lat='28.52095190882' lon='-16.26442555727'>
+    <tag k='alt_name' v='Galería los Rafaeles' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canalero 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75897' visible='true' lat='28.52288322576' lon='-16.26443838483'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pino 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75913' visible='true' lat='28.51856433171' lon='-16.27748706237'>
+    <tag k='alt_name' v='Galería Risco Negro 1' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hoya Abrigada' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75917' visible='true' lat='28.5175620553' lon='-16.27657575582'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Negro 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75929' visible='true' lat='28.52119757071' lon='-16.26324310282'>
+    <tag k='alt_name' v='Galería los Rafaeles' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canalero 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75931' visible='true' lat='28.5208634717' lon='-16.2642303446'>
+    <tag k='alt_name' v='Galería los Rafaeles' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canalero 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78681' visible='true' lat='28.50976367211' lon='-16.26988119199'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa de Tahodio' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74693' visible='true' lat='28.34151869075' lon='-16.52048889158'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Montaña Blanca 1' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

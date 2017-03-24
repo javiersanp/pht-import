@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75975' visible='true' lat='28.16047166021' lon='-16.66273222049'>
+    <tag k='alt_name' v='Galería las Fuentes de Vilaflor' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Vica Baja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77003' visible='true' lat='28.14293151132' lon='-16.66236956932'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Trevejo' />
+  </node>
+  <node id='-77281' visible='true' lat='28.15776297584' lon='-16.6576191713'>
+    <tag k='alt_name' v='Pozo Coruja' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Angola' />
+  </node>
+  <node id='-77997' visible='true' lat='28.15236405469' lon='-16.66448051147'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Trevejos' />
+  </node>
+</osm>

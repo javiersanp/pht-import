@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77445' visible='true' lat='28.0526255196' lon='-16.72969715903'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Hotel Mare Nostrum Resort' />
+  </node>
+  <node id='-77447' visible='true' lat='28.05617770017' lon='-16.73570539656'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Hotel Villa Cortes' />
+  </node>
+  <node id='-77449' visible='true' lat='28.05706815399' lon='-16.73594351694'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Hotel Conquistador' />
+  </node>
+  <node id='-77451' visible='true' lat='28.06462298262' lon='-16.73157817399'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Hotel Tenerife Sol' />
+  </node>
+  <node id='-78947' visible='true' lat='28.05409399104' lon='-16.73490894028'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Las Salinas' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-78949' visible='true' lat='28.05221232322' lon='-16.72882584673'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Camisón' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-78965' visible='true' lat='28.05998684727' lon='-16.73565469146'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Playa de Troya' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79043' visible='true' lat='28.06709508452' lon='-16.73235036397'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Barranco de Troya' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79061' visible='true' lat='28.06682178844' lon='-16.73183726539'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Gala' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

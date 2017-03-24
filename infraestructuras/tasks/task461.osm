@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75229' visible='true' lat='28.14165344367' lon='-16.72487424385'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Torres' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75487' visible='true' lat='28.13930816137' lon='-16.71399371763'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Macayonce' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77263' visible='true' lat='28.12559432609' lon='-16.72518709831'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo San Sebastián' />
+  </node>
+  <node id='-78009' visible='true' lat='28.12552106041' lon='-16.72455477413'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Molinos' />
+  </node>
+</osm>

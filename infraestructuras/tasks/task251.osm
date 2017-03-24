@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76857' visible='true' lat='28.05069221649' lon='-16.53394681387'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Calderones' />
+  </node>
+  <node id='-76899' visible='true' lat='28.04881842111' lon='-16.5360565786'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Hoya de Don Casiano' />
+  </node>
+  <node id='-76911' visible='true' lat='28.05313697337' lon='-16.53808145951'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Barqueros' />
+  </node>
+  <node id='-79069' visible='true' lat='28.04282277775' lon='-16.53468963092'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Médano I' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79115' visible='true' lat='28.04876931247' lon='-16.5339907326'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Los Martínez' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

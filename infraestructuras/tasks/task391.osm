@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75157' visible='true' lat='28.10950336859' lon='-16.65934985172'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Topo y Chija' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75159' visible='true' lat='28.10736793949' lon='-16.65008522652'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Río 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78877' visible='true' lat='28.12194577525' lon='-16.66258517732'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78881' visible='true' lat='28.11379869453' lon='-16.64742517398'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

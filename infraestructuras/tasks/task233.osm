@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77305' visible='true' lat='28.12531057102' lon='-16.50412065501'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Peru' />
+  </node>
+  <node id='-78863' visible='true' lat='28.12195180347' lon='-16.51489522904'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78865' visible='true' lat='28.10949644568' lon='-16.50509088276'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

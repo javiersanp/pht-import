@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76637' visible='true' lat='28.29401997707' lon='-16.3944664588'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Guillermas' />
+  </node>
+  <node id='-77095' visible='true' lat='28.29012511288' lon='-16.38697232807'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Rosas' />
+  </node>
+  <node id='-77105' visible='true' lat='28.29408570018' lon='-16.3924483574'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Blanco' />
+  </node>
+  <node id='-77109' visible='true' lat='28.29911678916' lon='-16.39117801713'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Guirres' />
+  </node>
+  <node id='-77113' visible='true' lat='28.30070219513' lon='-16.39766378441'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Jagua' />
+  </node>
+  <node id='-77495' visible='true' lat='28.29899916245' lon='-16.39120707875'>
+    <tag k='alt_name' v='EDAS Pozo los Guirres' />
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAS Finca el Viento' />
+  </node>
+  <node id='-77811' visible='true' lat='28.3027399981' lon='-16.38367892903'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Puertito' />
+  </node>
+  <node id='-77843' visible='true' lat='28.30299267726' lon='-16.38368219866'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Bajas' />
+  </node>
+  <node id='-78649' visible='true' lat='28.29766225441' lon='-16.40190683257'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Deposito de la Ladera' />
+  </node>
+</osm>

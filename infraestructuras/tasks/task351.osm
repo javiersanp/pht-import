@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75981' visible='true' lat='28.22002654679' lon='-16.61151677801'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Guajara' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76049' visible='true' lat='28.22017148536' lon='-16.60763688487'>
+    <tag k='alt_name' v='Galería Roque del Peral; Galería Teleférico' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Roque del Pino' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76693' visible='true' lat='28.53648946887' lon='-16.1330022372'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Antequera' />
+  </node>
+</osm>

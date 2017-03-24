@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77231' visible='true' lat='28.10467551318' lon='-16.50439251494'>
+    <tag k='alt_name' v='Pozo El Vallito' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Aulagas' />
+  </node>
+  <node id='-77921' visible='true' lat='28.09744232337' lon='-16.50556383882'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Polígono Industrial de Granadilla' />
+  </node>
+</osm>

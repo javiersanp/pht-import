@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74577' visible='true' lat='28.32086073017' lon='-16.44741411066'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chiñico' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74663' visible='true' lat='28.3083219701' lon='-16.4544542806'>
+    <tag k='alt_name' v='Galería el Río' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Viñátigos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74667' visible='true' lat='28.30927486986' lon='-16.45141802461'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Higueras Salvajes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74671' visible='true' lat='28.31532567902' lon='-16.45020496251'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cuenca' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76287' visible='true' lat='28.30750871857' lon='-16.45708446909'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Aculadero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76289' visible='true' lat='28.31999840814' lon='-16.45212461025'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Frontón' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76305' visible='true' lat='28.31663819888' lon='-16.44814222304'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Coto' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

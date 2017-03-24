@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74917' visible='true' lat='28.37008391216' lon='-16.73997331872'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Bucarón' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75665' visible='true' lat='28.36918383546' lon='-16.73412250698'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Socas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75667' visible='true' lat='28.37280002264' lon='-16.73220187221'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Vizconde' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75723' visible='true' lat='28.36452432865' lon='-16.74917711943'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Moreras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75755' visible='true' lat='28.36539976713' lon='-16.73363245714'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dornajos 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75779' visible='true' lat='28.36565606163' lon='-16.73121858654'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Mirabal' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75785' visible='true' lat='28.37165871964' lon='-16.74878399902'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Drago 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76293' visible='true' lat='28.35918974585' lon='-16.74574336908'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hoya Honda' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76763' visible='true' lat='28.37447948541' lon='-16.73425966477'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Coronela II' />
+  </node>
+  <node id='-76827' visible='true' lat='28.3745525754' lon='-16.73418942912'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Coronela I' />
+  </node>
+  <node id='-78195' visible='true' lat='28.3724891066' lon='-16.74172673018'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Guincho II' />
+  </node>
+  <node id='-78205' visible='true' lat='28.35965448023' lon='-16.74609784561'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Genovés I' />
+  </node>
+  <node id='-78207' visible='true' lat='28.35862146501' lon='-16.74783567482'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Genovés II' />
+  </node>
+  <node id='-78255' visible='true' lat='28.36353809592' lon='-16.73241870558'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Canalitas' />
+  </node>
+</osm>

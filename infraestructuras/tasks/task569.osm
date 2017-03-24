@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74469' visible='true' lat='28.35358209451' lon='-16.86723077527'>
+    <tag k='alt_name' v='Galería Bujamé' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Monte' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74873' visible='true' lat='28.35551291309' lon='-16.85469654299'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río Listán' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76067' visible='true' lat='28.34991258886' lon='-16.86764599414'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco Charco' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

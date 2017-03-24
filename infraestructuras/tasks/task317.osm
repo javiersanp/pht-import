@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74795' visible='true' lat='28.40191245059' lon='-16.58089614188'>
+    <tag k='alt_name' v='Galería Baja' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pueblo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74943' visible='true' lat='28.4016289156' lon='-16.58044284342'>
+    <tag k='alt_name' v='Galería Perera' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Aguas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75087' visible='true' lat='28.40128634589' lon='-16.57495684524'>
+    <tag k='alt_name' v='Galería la Longuera' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Beltranes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75789' visible='true' lat='28.39871397557' lon='-16.58509447319'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 1 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75823' visible='true' lat='28.40305114182' lon='-16.57998423772'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Molinos Oeste' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75867' visible='true' lat='28.39868892103' lon='-16.5856962704'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 5 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75871' visible='true' lat='28.39882640205' lon='-16.58629028197'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 7 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75873' visible='true' lat='28.40261376' lon='-16.58034518757'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Acevedo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75875' visible='true' lat='28.40426745631' lon='-16.57860395165'>
+    <tag k='alt_name' v='Galería Molino Este' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Molinos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75883' visible='true' lat='28.39836869956' lon='-16.58684480764'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Brevera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75885' visible='true' lat='28.39845893252' lon='-16.58684615212'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 6 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75889' visible='true' lat='28.3985681776' lon='-16.5852147783'>
+    <tag k='alt_name' v='Galería Corujeda' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 4 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75895' visible='true' lat='28.39855262109' lon='-16.58577589104'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 3 Boca Norte (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75919' visible='true' lat='28.40368726355' lon='-16.57336947909'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Playa de los Roques' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75921' visible='true' lat='28.39864296471' lon='-16.58654270629'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 8 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75933' visible='true' lat='28.39901993656' lon='-16.58517047126'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 2 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75937' visible='true' lat='28.39896353413' lon='-16.58613923012'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 11 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75939' visible='true' lat='28.39914518842' lon='-16.58603987252'>
+    <tag k='alt_name' v='Galería el Charcón' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pozo 10 (de Gordejuela)' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77529' visible='true' lat='28.40735755102' lon='-16.56892236912'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo EBA EDAR Valle de La Orotava' />
+    <tag k='pumping_station' v='water' />
+  </node>
+  <node id='-78317' visible='true' lat='28.40042103513' lon='-16.57876126438'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Romantica 2' />
+  </node>
+  <node id='-78643' visible='true' lat='28.40746265648' lon='-16.5691995114'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Deposito EDAS Valle de La Orotava' />
+  </node>
+  <node id='-79011' visible='true' lat='28.40429058878' lon='-16.57816540094'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo La Romántica' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79211' visible='true' lat='28.40708917042' lon='-16.56950021995'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Valle de La Orotava' />
+  </node>
+  <node id='-79289' visible='true' lat='28.40433700621' lon='-16.57805381377'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR La Romántica' />
+  </node>
+</osm>

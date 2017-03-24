@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76385' visible='true' lat='28.17292538796' lon='-16.49036434878'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Polegre' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76389' visible='true' lat='28.17542563825' lon='-16.50108330324'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Voladeras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77351' visible='true' lat='28.17849424506' lon='-16.486194191'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Polegre' />
+  </node>
+  <node id='-79233' visible='true' lat='28.16280993619' lon='-16.49845285589'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Villa de Arico' />
+  </node>
+</osm>

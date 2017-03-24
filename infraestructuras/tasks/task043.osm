@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76817' visible='true' lat='28.45646303405' lon='-16.26464793472'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco del Hierro' />
+  </node>
+  <node id='-77637' visible='true' lat='28.46981754832' lon='-16.26596111083'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Salamanca' />
+  </node>
+  <node id='-77639' visible='true' lat='28.46028876304' lon='-16.27539665879'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tío Pino' />
+  </node>
+  <node id='-77727' visible='true' lat='28.45817603181' lon='-16.27836362934'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tristán' />
+  </node>
+  <node id='-77729' visible='true' lat='28.46203540403' lon='-16.27681682621'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Vuelta de los Pájaros' />
+  </node>
+</osm>

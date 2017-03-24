@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74839' visible='true' lat='28.41345402235' lon='-16.50942922081'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cisterna' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75075' visible='true' lat='28.40702994256' lon='-16.50682714012'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pino Intermedio' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75077' visible='true' lat='28.39705488289' lon='-16.50622670892'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Drago 4' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75083' visible='true' lat='28.39956015191' lon='-16.51388643867'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Mundo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75793' visible='true' lat='28.40834479428' lon='-16.50708052096'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Polo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75813' visible='true' lat='28.40718538351' lon='-16.50582902497'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Viejita' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76351' visible='true' lat='28.40095565715' lon='-16.5117526669'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Barros' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76359' visible='true' lat='28.41067154337' lon='-16.51293180719'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería García' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76943' visible='true' lat='28.41476217032' lon='-16.52324898838'>
+    <tag k='alt_name' v='Pozo Las Veguetas' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Vera Guanche I' />
+  </node>
+  <node id='-77097' visible='true' lat='28.4106595284' lon='-16.52210827101'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Vera Guanche II' />
+  </node>
+  <node id='-77099' visible='true' lat='28.40690370411' lon='-16.51900260738'>
+    <tag k='alt_name' v='Pozo Barranco Arena' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Vera Guanche III' />
+  </node>
+  <node id='-77111' visible='true' lat='28.39918694285' lon='-16.52549612584'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Perales' />
+  </node>
+</osm>

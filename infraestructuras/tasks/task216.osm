@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75261' visible='true' lat='28.20859103354' lon='-16.49473078575'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Rebosadero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75291' visible='true' lat='28.20057230414' lon='-16.50253492136'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Gambuezo de Tamadaya' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74519' visible='true' lat='28.28543426268' lon='-16.81683040108'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente Salto del Guanche' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75985' visible='true' lat='28.3014193302' lon='-16.82675781717'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Lavaderos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76035' visible='true' lat='28.28539518947' lon='-16.81705402228'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Santa Ana 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77349' visible='true' lat='28.30120884174' lon='-16.81412105914'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Patio' />
+  </node>
+  <node id='-78111' visible='true' lat='28.28739933801' lon='-16.81428444752'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Retamar' />
+  </node>
+  <node id='-78113' visible='true' lat='28.28785451955' lon='-16.81398631659'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Molledo' />
+  </node>
+  <node id='-78115' visible='true' lat='28.29460694624' lon='-16.81789360651'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Valle Casco' />
+  </node>
+</osm>

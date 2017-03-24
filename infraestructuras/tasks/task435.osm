@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76303' visible='true' lat='28.07201327539' lon='-16.68453627984'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas del Ruido' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77009' visible='true' lat='28.07598817127' lon='-16.68495444072'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Vargas' />
+  </node>
+  <node id='-77957' visible='true' lat='28.08013879647' lon='-16.69382118869'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Chayofa I' />
+  </node>
+  <node id='-77987' visible='true' lat='28.08115641182' lon='-16.69399997177'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Chayofa II' />
+  </node>
+  <node id='-78659' visible='true' lat='28.07096564704' lon='-16.70433024607'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Deposito El Mojón' />
+  </node>
+</osm>

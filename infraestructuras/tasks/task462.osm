@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75233' visible='true' lat='28.15266300379' lon='-16.72278002517'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Santa Margarita' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76099' visible='true' lat='28.15874476362' lon='-16.70772507577'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Madres de Paulo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76957' visible='true' lat='28.15829073309' lon='-16.72092520044'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Grillo' />
+  </node>
+  <node id='-78017' visible='true' lat='28.15310734394' lon='-16.72476253829'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Taucho' />
+  </node>
+</osm>

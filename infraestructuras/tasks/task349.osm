@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75555' visible='true' lat='28.1912943245' lon='-16.60507557017'>
+    <tag k='alt_name' v='Galería Escurriales' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de San Miguel' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

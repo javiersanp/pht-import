@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75247' visible='true' lat='28.21093505545' lon='-16.5556703421'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ancón de Juan Marrero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75265' visible='true' lat='28.20399329701' lon='-16.55975692465'>
+    <tag k='alt_name' v='Galería las Gotas' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Guajara' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

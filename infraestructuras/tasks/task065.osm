@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76741' visible='true' lat='28.48980971755' lon='-16.3125076155'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco la Carnicería' />
+  </node>
+  <node id='-77367' visible='true' lat='28.49339118317' lon='-16.31547371422'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Canal del Norte Nº4' />
+  </node>
+  <node id='-77369' visible='true' lat='28.49536615438' lon='-16.3212192954'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Canal del Norte Nº3' />
+  </node>
+  <node id='-78555' visible='true' lat='28.49430858216' lon='-16.31113301405'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Rua' />
+  </node>
+  <node id='-78557' visible='true' lat='28.50465298977' lon='-16.32031328149'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Mesa Mota' />
+  </node>
+  <node id='-78563' visible='true' lat='28.48948088014' lon='-16.30823339221'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Roque' />
+  </node>
+</osm>

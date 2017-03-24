@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75231' visible='true' lat='28.16472178539' lon='-16.713298759'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Lomo del Quicio' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76055' visible='true' lat='28.17300101525' lon='-16.71230021986'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tejerea' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76121' visible='true' lat='28.17150034472' lon='-16.71394653429'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tejerea Baja 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76153' visible='true' lat='28.17148331841' lon='-16.71386478896'>
+    <tag k='alt_name' v='Galería Joe' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tejera Baja 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76155' visible='true' lat='28.17301042033' lon='-16.7122698165'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tejerea Alta' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78047' visible='true' lat='28.16055022615' lon='-16.71634836619'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Taucho Nuevo' />
+  </node>
+</osm>

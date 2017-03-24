@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75111' visible='true' lat='28.38240933707' lon='-16.53834873141'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tafuriaste' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76259' visible='true' lat='28.38742713454' lon='-16.54553427312'>
+    <tag k='alt_name' v='Galería Dóniz II' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de la Suerte' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76339' visible='true' lat='28.38597387154' lon='-16.54237000281'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Candia' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76595' visible='true' lat='28.38372756283' lon='-16.52947922605'>
+    <tag k='alt_name' v='Galería la Cancela; Galería Cauce del Río' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Pajarera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76843' visible='true' lat='28.38464174572' lon='-16.53646240756'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Tafuriaste' />
+  </node>
+  <node id='-76921' visible='true' lat='28.39631313349' lon='-16.54027434546'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Calderona' />
+  </node>
+  <node id='-78383' visible='true' lat='28.39154902127' lon='-16.54416527148'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Jerónimo' />
+  </node>
+</osm>

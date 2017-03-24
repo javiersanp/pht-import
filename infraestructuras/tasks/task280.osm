@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75323' visible='true' lat='28.14466448991' lon='-16.55712468315'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tesoro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77917' visible='true' lat='28.14892473282' lon='-16.55073058105'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Vegas' />
+  </node>
+</osm>

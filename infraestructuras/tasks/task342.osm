@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76731' visible='true' lat='28.06259681665' lon='-16.60498021104'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Chimbesque' />
+  </node>
+  <node id='-77257' visible='true' lat='28.05690557577' lon='-16.61313635676'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Chafiras' />
+  </node>
+  <node id='-77941' visible='true' lat='28.06701852439' lon='-16.62192566473'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Casa de Camineros' />
+  </node>
+  <node id='-77943' visible='true' lat='28.05477891839' lon='-16.61745885756'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Llano del Camello' />
+  </node>
+  <node id='-79177' visible='true' lat='28.05846091147' lon='-16.61748346167'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Privada' />
+  </node>
+</osm>

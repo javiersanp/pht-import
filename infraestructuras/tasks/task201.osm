@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74689' visible='true' lat='28.34021714972' lon='-16.47212824874'>
+    <tag k='alt_name' v='Galería Aguas del Valle' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cazme' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76095' visible='true' lat='28.3401227273' lon='-16.47251458328'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cazme 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

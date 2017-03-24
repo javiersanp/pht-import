@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75031' visible='true' lat='28.42896814556' lon='-16.3495733144'>
+    <tag k='alt_name' v='Galería Salto; Galería Fuente de la' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Unión Fuentes del Pino' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75621' visible='true' lat='28.43425586545' lon='-16.36056539821'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de las Lagunetas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76499' visible='true' lat='28.42560475887' lon='-16.35017384032'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas Vistas del Pino' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77681' visible='true' lat='28.43387519217' lon='-16.34620493717'>
+    <tag k='alt_name' v='Depósito El Convento' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Tablero I' />
+  </node>
+  <node id='-77745' visible='true' lat='28.42209436655' lon='-16.34739324987'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Machado I' />
+  </node>
+  <node id='-77747' visible='true' lat='28.4270374914' lon='-16.35131507866'>
+    <tag k='alt_name' v='Depósito Toriño II' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Parra II' />
+  </node>
+  <node id='-78627' visible='true' lat='28.42721158597' lon='-16.35105184056'>
+    <tag k='alt_name' v='Depósito Toriño I' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Parra I' />
+  </node>
+  <node id='-78903' visible='true' lat='28.41923410385' lon='-16.34366142915'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78905' visible='true' lat='28.42059876773' lon='-16.34712929587'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

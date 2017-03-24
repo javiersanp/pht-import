@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75257' visible='true' lat='28.19155559841' lon='-16.53107414636'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Nuestra Señora de la Concepción' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75263' visible='true' lat='28.19671700916' lon='-16.5263190074'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Ranas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75315' visible='true' lat='28.19796132315' lon='-16.54171944671'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Naranjos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77885' visible='true' lat='28.18635985462' lon='-16.52354382764'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Ortiz' />
+  </node>
+</osm>

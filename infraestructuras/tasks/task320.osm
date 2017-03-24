@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76729' visible='true' lat='28.06751626845' lon='-16.59018802696'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Atogo' />
+  </node>
+  <node id='-77339' visible='true' lat='28.0589450527' lon='-16.59539298538'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Ciguaña Alta' />
+  </node>
+</osm>

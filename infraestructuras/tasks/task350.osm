@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75947' visible='true' lat='28.20846987013' lon='-16.61802660683'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Sabina 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75961' visible='true' lat='28.20819820399' lon='-16.61810401612'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Sabina 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75967' visible='true' lat='28.20857750075' lon='-16.62493571018'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Virgen de la Candelaria' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75971' visible='true' lat='28.21100904804' lon='-16.61852335343'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Manantial' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76007' visible='true' lat='28.20450313577' lon='-16.60694377188'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Majada Vieja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76009' visible='true' lat='28.20547165423' lon='-16.61971333459'>
+    <tag k='alt_name' v='Galería Valle de Ucanca (Sur)' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ucanca 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76011' visible='true' lat='28.20599300939' lon='-16.6176021403'>
+    <tag k='alt_name' v='Galería el Pino' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ucanca 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76043' visible='true' lat='28.21221277629' lon='-16.61823585351'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Filo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76051' visible='true' lat='28.20435578466' lon='-16.61332922673'>
+    <tag k='alt_name' v='Galería Sol de los Muertos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ucanca 4' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76057' visible='true' lat='28.20659646495' lon='-16.61923110023'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ucanca 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76059' visible='true' lat='28.20946771985' lon='-16.62444996892'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Virgen de la Candelaria IV' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76203' visible='true' lat='28.20554444444' lon='-16.61966349403'>
+    <tag k='alt_name' v='Galería Valle de Ucanca (Norte)' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ucanca 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76375' visible='true' lat='28.2045026572' lon='-16.60698451544'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Majada Vieja 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

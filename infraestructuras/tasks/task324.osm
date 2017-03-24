@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76363' visible='true' lat='28.13394717251' lon='-16.60058537888'>
+    <tag k='alt_name' v='Galería la Rica' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cumbrita' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76547' visible='true' lat='28.13721726185' lon='-16.58791750146'>
+    <tag k='alt_name' v='Galería Salto del Volga' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Charco Cabras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77911' visible='true' lat='28.13758575441' lon='-16.59349215023'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Cruz de Tea' />
+  </node>
+</osm>

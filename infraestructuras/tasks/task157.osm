@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74583' visible='true' lat='28.32625857447' lon='-16.44137761802'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Vistas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74705' visible='true' lat='28.3424643115' lon='-16.44001517443'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Zarzales 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74711' visible='true' lat='28.34252336034' lon='-16.42925361566'>
+    <tag k='alt_name' v='Galería Viña Nueva' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Río' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74715' visible='true' lat='28.33391025206' lon='-16.42608838217'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Binchelche' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75955' visible='true' lat='28.34347375232' lon='-16.42554283165'>
+    <tag k='alt_name' v='Galería el Río Antiguo' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Viñas Viejas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77213' visible='true' lat='28.33412469662' lon='-16.42629525591'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Volcán' />
+  </node>
+  <node id='-77801' visible='true' lat='28.34120377021' lon='-16.42684887416'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Tanque II' />
+  </node>
+  <node id='-77803' visible='true' lat='28.342129139' lon='-16.42811599768'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Majuelo' />
+  </node>
+  <node id='-77805' visible='true' lat='28.33349372132' lon='-16.42449155059'>
+    <tag k='alt_name' v='Depósito El Volcán' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Regulador de Arafo' />
+  </node>
+  <node id='-77807' visible='true' lat='28.3411057862' lon='-16.42672515057'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Tanque I' />
+  </node>
+</osm>

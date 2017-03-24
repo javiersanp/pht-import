@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74489' visible='true' lat='28.36530793008' lon='-16.43567072157'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Ilusión' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74491' visible='true' lat='28.36725912114' lon='-16.43807443818'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Charquillo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74495' visible='true' lat='28.36862903753' lon='-16.42536878603'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Eritos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75539' visible='true' lat='28.36380383375' lon='-16.43022230619'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuentes del Charquillo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76473' visible='true' lat='28.3683947334' lon='-16.42533504285'>
+    <tag k='alt_name' v='Galería la Chabuquera' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chivichezo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76481' visible='true' lat='28.37282445587' lon='-16.43666989182'>
+    <tag k='alt_name' v='Galería Conchita' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Aguiluchos' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

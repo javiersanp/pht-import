@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75521' visible='true' lat='28.53873446536' lon='-16.31266388965'>
+    <tag k='alt_name' v='Galería la Goleta' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dornajos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75567' visible='true' lat='28.53079463282' lon='-16.30867178587'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Salto' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76399' visible='true' lat='28.52633726644' lon='-16.31229564552'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Cubo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76445' visible='true' lat='28.53017881228' lon='-16.30513840992'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Lajas 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77381' visible='true' lat='28.52737298779' lon='-16.31065294332'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Cubo' />
+  </node>
+  <node id='-78519' visible='true' lat='28.52796990584' lon='-16.32262722346'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Caidero' />
+  </node>
+  <node id='-78523' visible='true' lat='28.53089690516' lon='-16.30648603718'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Pedro Álvarez Monte' />
+  </node>
+</osm>

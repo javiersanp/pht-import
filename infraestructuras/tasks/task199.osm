@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74669' visible='true' lat='28.30594373894' lon='-16.4692086233'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Morro de la Habana' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

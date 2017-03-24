@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74459' visible='true' lat='28.32985915047' lon='-16.84922277287'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Lubes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74467' visible='true' lat='28.33818736626' lon='-16.83125229566'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Caudal 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74533' visible='true' lat='28.32401297672' lon='-16.84577649859'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Virgen del Carmen' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74535' visible='true' lat='28.32678312332' lon='-16.8397867792'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Unión Portela y Laderno' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74549' visible='true' lat='28.33216459545' lon='-16.85090475413'>
+    <tag k='alt_name' v='Galería Carrizal; Galería Túnel de Masca' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Palmar' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75973' visible='true' lat='28.32105297108' lon='-16.83708757698'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Charcos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75987' visible='true' lat='28.32127270722' lon='-16.84020178087'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Lomo Méndez' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75991' visible='true' lat='28.32152630066' lon='-16.83812572878'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco del Palmar' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76167' visible='true' lat='28.33669239238' lon='-16.84107946474'>
+    <tag k='alt_name' v='Galería la Cueva' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Huertitas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76405' visible='true' lat='28.3250308261' lon='-16.84591646809'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Bermúdez' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76453' visible='true' lat='28.33028589443' lon='-16.84169313384'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Arugas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76509' visible='true' lat='28.3223464225' lon='-16.8482258638'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tierras Viejas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76521' visible='true' lat='28.33293058895' lon='-16.83897475592'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Arrandianes' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76523' visible='true' lat='28.33804213902' lon='-16.84136793352'>
+    <tag k='alt_name' v='Galería Hoya de Melo' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Valle del Palmar' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77527' visible='true' lat='28.33445846952' lon='-16.84878225622'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo de El Palmar' />
+    <tag k='pumping_station' v='water' />
+  </node>
+  <node id='-77587' visible='true' lat='28.32447103791' lon='-16.84593738959'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa El Palmar' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78141' visible='true' lat='28.33434270208' lon='-16.84866805905'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Palmar I' />
+  </node>
+  <node id='-78149' visible='true' lat='28.32286803963' lon='-16.8396785553'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Portelas I' />
+  </node>
+  <node id='-78165' visible='true' lat='28.33422665813' lon='-16.84857425599'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Palmar II' />
+  </node>
+  <node id='-78167' visible='true' lat='28.32284248534' lon='-16.83956593433'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Portelas II' />
+  </node>
+</osm>

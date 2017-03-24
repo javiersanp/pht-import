@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77965' visible='true' lat='28.09242320603' lon='-16.68638142423'>
+    <tag k='alt_name' v='Depósito Cementerio' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Montaña Fria' />
+  </node>
+</osm>

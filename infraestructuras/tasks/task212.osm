@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76825' visible='true' lat='28.13876106857' lon='-16.48817045536'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Bijagua' />
+  </node>
+  <node id='-77593' visible='true' lat='28.12925762356' lon='-16.48814094076'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito PIRS.' />
+  </node>
+</osm>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74751' visible='true' lat='28.36570393206' lon='-16.62621163581'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Partido' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74753' visible='true' lat='28.37235026436' lon='-16.6235988358'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco Hondo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74755' visible='true' lat='28.36543216659' lon='-16.62099376856'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Lajas del Andén' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74757' visible='true' lat='28.36585849407' lon='-16.6154906092'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Quilla' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74777' visible='true' lat='28.37463962115' lon='-16.62460306894'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Bucio' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74785' visible='true' lat='28.3660858414' lon='-16.62294228366'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Monte Linares' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74825' visible='true' lat='28.37654860398' lon='-16.62117299069'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Fajana 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74843' visible='true' lat='28.36888484835' lon='-16.62283183428'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dula de Gaimora' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75129' visible='true' lat='28.3639075258' lon='-16.60952298844'>
+    <tag k='alt_name' v='Galería Fuente del Cedro' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Moro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75645' visible='true' lat='28.37261459351' lon='-16.61882754126'>
+    <tag k='alt_name' v='Galería Calderón' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Katanga' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75649' visible='true' lat='28.37651784301' lon='-16.62299904722'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Finca de la Fajana 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75651' visible='true' lat='28.37646224587' lon='-16.62312064918'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Finca de la Fajana 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75655' visible='true' lat='28.37633312648' lon='-16.62335337568'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Castro 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75657' visible='true' lat='28.37648846472' lon='-16.6231924767'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Castro 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75661' visible='true' lat='28.37680954774' lon='-16.62123818381'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco de Castro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75679' visible='true' lat='28.37692235746' lon='-16.62161745083'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Camino de la Fajana' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75697' visible='true' lat='28.37400921604' lon='-16.62449142389'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Hoyo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75709' visible='true' lat='28.37684466938' lon='-16.62132035064'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de la Fajana' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75711' visible='true' lat='28.37709517067' lon='-16.62226293834'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Barranco de Castro' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75713' visible='true' lat='28.37670139105' lon='-16.62122633474'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Lomo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77561' visible='true' lat='28.37315877903' lon='-16.62693756024'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa Llanos de Mesa' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78605' visible='true' lat='28.37504567563' lon='-16.61016050821'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Icod el Alto II' />
+  </node>
+</osm>

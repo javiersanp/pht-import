@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74571' visible='true' lat='28.30378312602' lon='-16.44331799916'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aceviño 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74655' visible='true' lat='28.30282662154' lon='-16.45096338162'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Izaña Vieja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74657' visible='true' lat='28.30282662154' lon='-16.45096338162'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Izaña Nueva' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74659' visible='true' lat='28.30255806269' lon='-16.44820643155'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Cañizo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74743' visible='true' lat='28.30401706004' lon='-16.4620438787'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Paloma' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76025' visible='true' lat='28.30398755178' lon='-16.44361648842'>
+    <tag k='alt_name' v='Galería las Flores' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Cardos 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77047' visible='true' lat='28.11777480664' lon='-16.5245072174'>
+    <tag k='alt_name' v='Pozo Cercado del Bardo; Pozo Nuestra Señora' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Chimiche' />
+  </node>
+  <node id='-77199' visible='true' lat='28.11408232825' lon='-16.53027755989'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Helechos' />
+  </node>
+  <node id='-77355' visible='true' lat='28.1245276575' lon='-16.53243142631'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Guindas' />
+  </node>
+</osm>

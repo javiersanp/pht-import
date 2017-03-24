@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74511' visible='true' lat='28.27466712163' lon='-16.81215217887'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Honduras de Luchón' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76391' visible='true' lat='28.28074404694' lon='-16.81596580584'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Viña' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76587' visible='true' lat='28.27028358044' lon='-16.82350468315'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Viñita' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76593' visible='true' lat='28.26957888771' lon='-16.81611277442'>
+    <tag k='alt_name' v='Galería el Cercado' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cerca' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76887' visible='true' lat='28.27424641318' lon='-16.8146119336'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Luchón' />
+  </node>
+  <node id='-78109' visible='true' lat='28.27343355702' lon='-16.81669804051'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tamaimo' />
+  </node>
+</osm>

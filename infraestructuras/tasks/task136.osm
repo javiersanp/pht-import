@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74457' visible='true' lat='28.37239732436' lon='-16.40491893964'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de las Vigas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74479' visible='true' lat='28.37969398607' lon='-16.40626010397'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Igonce' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74497' visible='true' lat='28.37747743706' lon='-16.41809891072'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Achacay 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74499' visible='true' lat='28.37423363537' lon='-16.41498424738'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Santa Ana 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74501' visible='true' lat='28.37006893971' lon='-16.41102085625'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Achacay 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75139' visible='true' lat='28.37844311371' lon='-16.41810155299'>
+    <tag k='alt_name' v='Galería Risco de la Ovejera' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chese Nuevo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76477' visible='true' lat='28.37810362959' lon='-16.41342326722'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Blanco' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76483' visible='true' lat='28.37001479534' lon='-16.41102013977'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Achacay 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77791' visible='true' lat='28.36217937929' lon='-16.40679437212'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Tanquillo' />
+  </node>
+</osm>

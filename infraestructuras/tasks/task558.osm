@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74517' visible='true' lat='28.27636215877' lon='-16.83121285297'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Junquera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74521' visible='true' lat='28.28308836206' lon='-16.84573273487'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Natero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76563' visible='true' lat='28.27074723692' lon='-16.84876138664'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Acantilado de los Gigantes' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

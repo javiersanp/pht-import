@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74947' visible='true' lat='28.46671632815' lon='-16.43980714441'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería San Nicolás 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74963' visible='true' lat='28.46272163615' lon='-16.44033512147'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Breñas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74969' visible='true' lat='28.46031384361' lon='-16.42472827565'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Prosperidad' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74993' visible='true' lat='28.46046159295' lon='-16.43642369289'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Cordobés' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76409' visible='true' lat='28.45596479356' lon='-16.44346033925'>
+    <tag k='alt_name' v='Galería de Abajo' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cordobés 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76431' visible='true' lat='28.46772739922' lon='-16.43636876094'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de los Hinojos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76909' visible='true' lat='28.46345618172' lon='-16.44085572583'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Breñas' />
+  </node>
+  <node id='-78465' visible='true' lat='28.46846013606' lon='-16.44047422848'>
+    <tag k='alt_name' v='Depósito Guriel' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Camino Nuevo' />
+  </node>
+  <node id='-78471' visible='true' lat='28.46329594443' lon='-16.43038536252'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Valle Forestal' />
+  </node>
+  <node id='-78473' visible='true' lat='28.46252330655' lon='-16.42833239594'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Montañeta' />
+  </node>
+</osm>

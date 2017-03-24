@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75301' visible='true' lat='28.24578179078' lon='-16.47668961246'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Nuestra Señora del Carmen' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75303' visible='true' lat='28.24599026325' lon='-16.4690688838'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hondura de Fasnia' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76533' visible='true' lat='28.24173759182' lon='-16.47007052782'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cuevas de la Viuda' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77851' visible='true' lat='28.23657060932' lon='-16.46291686867'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Zarza' />
+  </node>
+  <node id='-77857' visible='true' lat='28.25250772199' lon='-16.47482531374'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Pino del Agua' />
+  </node>
+</osm>

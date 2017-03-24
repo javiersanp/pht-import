@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76171' visible='true' lat='28.56868650509' lon='-16.31202338251'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Fajana 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76185' visible='true' lat='28.56182442414' lon='-16.3141872482'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Brisas de Anaga' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76805' visible='true' lat='28.5702685671' lon='-16.31454776273'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Fajana 1' />
+  </node>
+  <node id='-76807' visible='true' lat='28.57046828693' lon='-16.31442756359'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Fajana 2' />
+  </node>
+  <node id='-76809' visible='true' lat='28.57026071509' lon='-16.31349464735'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Fajana 3' />
+  </node>
+  <node id='-76829' visible='true' lat='28.57039569756' lon='-16.31446755524'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Fajana 4' />
+  </node>
+  <node id='-76831' visible='true' lat='28.57048513163' lon='-16.31362011685'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Fajana 5' />
+  </node>
+  <node id='-78529' visible='true' lat='28.56661449562' lon='-16.32371336406'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Homicián Viejo (Bajo)' />
+  </node>
+  <node id='-78533' visible='true' lat='28.56400491153' lon='-16.31828303843'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Homicián Nuevo (Alto)' />
+  </node>
+  <node id='-78623' visible='true' lat='28.56189424178' lon='-16.3144334595'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Punta del Hidalgo' />
+  </node>
+</osm>

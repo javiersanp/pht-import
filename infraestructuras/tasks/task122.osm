@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74871' visible='true' lat='28.4741360601' lon='-16.3885008796'>
+    <tag k='alt_name' v='Galería Cruz del Monte' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Melchor Álvarez' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75581' visible='true' lat='28.47161417908' lon='-16.40119425377'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de las Acacias' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76531' visible='true' lat='28.48581447688' lon='-16.39381230614'>
+    <tag k='alt_name' v='Galería Alvaro Báez' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barbais' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76535' visible='true' lat='28.48573370783' lon='-16.39728438782'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Candelaria' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77317' visible='true' lat='28.48384316431' lon='-16.38447037281'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Cristal' />
+  </node>
+  <node id='-78493' visible='true' lat='28.47432975942' lon='-16.40391637706'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Casas Altas' />
+  </node>
+  <node id='-78497' visible='true' lat='28.47622952584' lon='-16.38853847422'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Melchor Álvarez' />
+  </node>
+  <node id='-79217' visible='true' lat='28.48427475661' lon='-16.38462922841'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Coca-Cola' />
+  </node>
+</osm>

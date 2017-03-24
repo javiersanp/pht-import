@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74363' visible='true' lat='28.20251159042' lon='-16.72240767378'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Fraile' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74611' visible='true' lat='28.2112091765' lon='-16.71036237853'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Niágara' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76485' visible='true' lat='28.20161883259' lon='-16.72235260457'>
+    <tag k='alt_name' v='Galería el Frailito; Galería las Ovejas' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Tilos' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

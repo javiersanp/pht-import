@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75161' visible='true' lat='28.11225450042' lon='-16.67948507691'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Altavista' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75171' visible='true' lat='28.11993425221' lon='-16.68467413477'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Topo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77341' visible='true' lat='28.1080330597' lon='-16.6829817185'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Arona I' />
+  </node>
+  <node id='-77991' visible='true' lat='28.10750199053' lon='-16.68433731565'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Embalse Ancón' />
+  </node>
+  <node id='-78639' visible='true' lat='28.11334425796' lon='-16.67006626668'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Altavista' />
+  </node>
+  <node id='-78689' visible='true' lat='28.10808147793' lon='-16.68418351669'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Del Ancón' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78875' visible='true' lat='28.12056872022' lon='-16.66969979632'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78879' visible='true' lat='28.11494767713' lon='-16.67031505194'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78895' visible='true' lat='28.11130602486' lon='-16.67586705695'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78897' visible='true' lat='28.11154299336' lon='-16.67567734658'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78899' visible='true' lat='28.11170012013' lon='-16.67537442867'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-79169' visible='true' lat='28.11205573084' lon='-16.66693160516'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR La Escalona' />
+  </node>
+</osm>

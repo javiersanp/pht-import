@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76671' visible='true' lat='28.06084003137' lon='-16.69847311462'>
+    <tag k='alt_name' v='Pozo El Milagro' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo El Mojón' />
+  </node>
+  <node id='-76707' visible='true' lat='28.05600902483' lon='-16.70305655701'>
+    <tag k='alt_name' v='Pozo Guaza' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Virgen del Carmen' />
+  </node>
+  <node id='-77971' visible='true' lat='28.06272455856' lon='-16.68836943206'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Llano Azul I' />
+  </node>
+  <node id='-77989' visible='true' lat='28.06190808367' lon='-16.68871275732'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Llano Azul III' />
+  </node>
+  <node id='-77993' visible='true' lat='28.06233392979' lon='-16.68857697956'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Llano Azul II' />
+  </node>
+  <node id='-78657' visible='true' lat='28.06149238707' lon='-16.68875712761'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Deposito de Llano Azul' />
+  </node>
+  <node id='-78693' visible='true' lat='28.06573934618' lon='-16.69273046918'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

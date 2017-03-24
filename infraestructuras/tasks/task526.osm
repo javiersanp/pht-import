@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74909' visible='true' lat='28.3621563904' lon='-16.77042022052'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hoya de los Barros' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74927' visible='true' lat='28.36339063309' lon='-16.78166328342'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Laureles' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74933' visible='true' lat='28.36621436945' lon='-16.77620105557'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Cueva del Gallo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74939' visible='true' lat='28.36344417383' lon='-16.78584712977'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Salto de las Palomas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75771' visible='true' lat='28.36880344665' lon='-16.77072443352'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas Blancas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76295' visible='true' lat='28.36289172989' lon='-16.77077930572'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Brezo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76337' visible='true' lat='28.36302558676' lon='-16.78817644064'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Pichones' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77069' visible='true' lat='28.37173641889' lon='-16.77419120116'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Quinta' />
+  </node>
+  <node id='-77147' visible='true' lat='28.37046823037' lon='-16.78973987498'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Siete Ventanas' />
+  </node>
+  <node id='-77149' visible='true' lat='28.36762400632' lon='-16.77952002154'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Rola' />
+  </node>
+  <node id='-78197' visible='true' lat='28.36776926207' lon='-16.78014481335'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Cruces I' />
+  </node>
+  <node id='-78199' visible='true' lat='28.36930951433' lon='-16.77344681451'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito San Pedro' />
+  </node>
+  <node id='-78203' visible='true' lat='28.36670497538' lon='-16.77802530008'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Regulador las Cruces II' />
+  </node>
+  <node id='-79073' visible='true' lat='28.3744389731' lon='-16.78216421529'>
+    <tag k='alt_name' v='Estación de bombeo de las Cruces' />
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Cementerio' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79183' visible='true' lat='28.37374636176' lon='-16.7854381014'>
+    <tag k='alt_name' v='EDAR La Caleta de Interián' />
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Garachico' />
+  </node>
+</osm>

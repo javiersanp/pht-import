@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74523' visible='true' lat='28.31220423809' lon='-16.77680168589'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Riegos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77539' visible='true' lat='28.31763531754' lon='-16.78867061261'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa Los Partidos' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77249' visible='true' lat='28.07772137813' lon='-16.59039939733'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Salones Oeste' />
+  </node>
+  <node id='-77259' visible='true' lat='28.08653179914' lon='-16.5886872821'>
+    <tag k='alt_name' v='Pozo Cascajo' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Campanillas' />
+  </node>
+  <node id='-77357' visible='true' lat='28.08392295137' lon='-16.60270233376'>
+    <tag k='alt_name' v='Pozo Orchilla' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Jacintas' />
+  </node>
+  <node id='-77375' visible='true' lat='28.0777233827' lon='-16.59022643958'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Salones Este' />
+  </node>
+  <node id='-77893' visible='true' lat='28.08568745914' lon='-16.5883390269'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Los Abrigos' />
+  </node>
+  <node id='-78867' visible='true' lat='28.08592868681' lon='-16.59865136035'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

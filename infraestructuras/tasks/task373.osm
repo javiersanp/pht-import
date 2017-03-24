@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76017' visible='true' lat='28.20950619119' lon='-16.62652892395'>
+    <tag k='alt_name' v='Galería Cumbres de Ucanca' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Virgen de la Candelaria III' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76129' visible='true' lat='28.21198882867' lon='-16.62646466133'>
+    <tag k='alt_name' v='Galería Virgen de la Candelaria II' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Riachuelos' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

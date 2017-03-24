@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75357' visible='true' lat='28.16310161923' lon='-16.45974718484'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tajo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77865' visible='true' lat='28.17698797584' lon='-16.44478990899'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Poris II' />
+  </node>
+</osm>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76897' visible='true' lat='28.01106896641' lon='-16.65916041748'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Las Galletas' />
+  </node>
+  <node id='-78959' visible='true' lat='28.00633420299' lon='-16.65513218419'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Las Galletas I' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79153' visible='true' lat='28.00404816773' lon='-16.64407445757'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Urbanización Atlantic View' />
+  </node>
+  <node id='-79155' visible='true' lat='28.01024371916' lon='-16.65124631328'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Urbanización Carabela' />
+  </node>
+  <node id='-79305' visible='true' lat='28.00633420299' lon='-16.65513218419'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR Las Galletas I' />
+  </node>
+</osm>

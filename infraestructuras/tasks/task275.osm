@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76851' visible='true' lat='28.06129438916' lon='-16.55663341217'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Saltaderos' />
+  </node>
+  <node id='-77533' visible='true' lat='28.06195111498' lon='-16.55124030478'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo El Saltadero' />
+    <tag k='pumping_station' v='water' />
+  </node>
+  <node id='-77579' visible='true' lat='28.0634809225' lon='-16.55163873179'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa El Saltadero' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-77889' visible='true' lat='28.05377366929' lon='-16.54568002526'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Médano' />
+  </node>
+  <node id='-77915' visible='true' lat='28.05509658552' lon='-16.54280961528'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Médano II' />
+  </node>
+</osm>

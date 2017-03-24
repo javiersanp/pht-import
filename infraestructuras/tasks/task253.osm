@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76845' visible='true' lat='28.07709603967' lon='-16.52300633348'>
+    <tag k='alt_name' v='Pozo Ricasa' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Uribarri' />
+  </node>
+  <node id='-76847' visible='true' lat='28.08775190169' lon='-16.53462601086'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Ifara' />
+  </node>
+</osm>

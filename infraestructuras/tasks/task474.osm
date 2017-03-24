@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74901' visible='true' lat='28.36798800368' lon='-16.7109219761'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Banana 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74903' visible='true' lat='28.36735942764' lon='-16.72499188488'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Caforiño' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74905' visible='true' lat='28.36597935283' lon='-16.72422475987'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tilo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75659' visible='true' lat='28.35928811429' lon='-16.72240263434'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Pedro Martín' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75669' visible='true' lat='28.3673932316' lon='-16.72802268485'>
+    <tag k='alt_name' v='Galería la Torreta' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Torre 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75671' visible='true' lat='28.36718596836' lon='-16.72799892036'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Torre 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75673' visible='true' lat='28.36696428054' lon='-16.72768924307'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Transito 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75675' visible='true' lat='28.35929210423' lon='-16.72137228563'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Contra - Acequia' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75757' visible='true' lat='28.36143668333' lon='-16.72234550908'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Tejas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75759' visible='true' lat='28.35979518763' lon='-16.72369629386'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Viñátigo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75767' visible='true' lat='28.35950708749' lon='-16.72506892493'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ruiblás 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75773' visible='true' lat='28.35891250843' lon='-16.72355960543'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente de la Cañera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75777' visible='true' lat='28.36038011673' lon='-16.72382817285'>
+    <tag k='alt_name' v='Galería la Fuentecita' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Capellania' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75781' visible='true' lat='28.36588026422' lon='-16.72777370743'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Casa Blanca 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75783' visible='true' lat='28.36589559401' lon='-16.72798821303'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Casa Blanca 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75791' visible='true' lat='28.35946326464' lon='-16.72496619503'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ruiblás 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77227' visible='true' lat='28.36217317769' lon='-16.71044099642'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Cueva del Viento' />
+  </node>
+  <node id='-78245' visible='true' lat='28.37220851377' lon='-16.72047883351'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Las Granaderas' />
+  </node>
+  <node id='-78247' visible='true' lat='28.36342459254' lon='-16.70996114159'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Candelaria II' />
+  </node>
+  <node id='-78249' visible='true' lat='28.3633071012' lon='-16.70925528318'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Candelaria I' />
+  </node>
+  <node id='-78277' visible='true' lat='28.36365591973' lon='-16.70950573519'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Candelaria III' />
+  </node>
+  <node id='-79209' visible='true' lat='28.37055929765' lon='-16.72244184177'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR La Magalona' />
+  </node>
+</osm>

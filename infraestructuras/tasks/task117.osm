@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74471' visible='true' lat='28.38596778441' lon='-16.38321713505'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de Igueste' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74473' visible='true' lat='28.38500214279' lon='-16.38941973103'>
+    <tag k='alt_name' v='Galería los Tres' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco de Iqueque' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74483' visible='true' lat='28.38268914627' lon='-16.39408398287'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Paso de la Reina' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74487' visible='true' lat='28.38256041104' lon='-16.39255151625'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chinabargo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74503' visible='true' lat='28.3862761963' lon='-16.40073390856'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chacorche' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74995' visible='true' lat='28.39081032549' lon='-16.39247562711'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Pilar' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75015' visible='true' lat='28.39531621841' lon='-16.40017914503'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Barranco de Araca' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75019' visible='true' lat='28.39402070285' lon='-16.39449761592'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Porvenir de Igueste' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76469' visible='true' lat='28.39084807314' lon='-16.38700569345'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Ajeja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76525' visible='true' lat='28.3978123881' lon='-16.39439415712'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de Cuevas Negras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76823' visible='true' lat='28.39218840738' lon='-16.38744159596'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Ajeja' />
+  </node>
+  <node id='-76835' visible='true' lat='28.3835885165' lon='-16.38731941351'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Barranco Chacorche' />
+  </node>
+</osm>

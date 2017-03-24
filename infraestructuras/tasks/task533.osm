@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74625' visible='true' lat='28.24583170666' lon='-16.79797783313'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Mayatos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78083' visible='true' lat='28.23595912785' lon='-16.79246243838'>
+    <tag k='alt_name' v='Depósito Cementerio' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Chío' />
+  </node>
+</osm>

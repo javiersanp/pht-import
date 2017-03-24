@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75693' visible='true' lat='28.43658978997' lon='-16.49181831351'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Moralillo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76177' visible='true' lat='28.43848408454' lon='-16.49190615349'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Moralillo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-79147' visible='true' lat='28.43913127868' lon='-16.4929669063'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR La Quinta' />
+  </node>
+  <node id='-79213' visible='true' lat='28.43469307136' lon='-16.4911280556'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Bio Granja' />
+  </node>
+  <node id='-79215' visible='true' lat='28.43571758431' lon='-16.4898763722'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Teisol' />
+  </node>
+</osm>

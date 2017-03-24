@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74541' visible='true' lat='28.33527582313' lon='-16.80732529052'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de Erjos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74543' visible='true' lat='28.33024378327' lon='-16.80705654104'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cuevas Negras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76033' visible='true' lat='28.32391394769' lon='-16.80802029095'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Risa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76135' visible='true' lat='28.3312131225' lon='-16.7937834044'>
+    <tag k='alt_name' v='Galería el Guirre' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Flora' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76137' visible='true' lat='28.3343625351' lon='-16.79927264292'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Cuervos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78183' visible='true' lat='28.32478617419' lon='-16.80757611941'>
+    <tag k='alt_name' v='Depósito La Plaza' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Erjos' />
+  </node>
+  <node id='-78227' visible='true' lat='28.32574284724' lon='-16.79663895026'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Ermita I' />
+  </node>
+  <node id='-78233' visible='true' lat='28.33293132001' lon='-16.79213956937'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Ruigómez' />
+  </node>
+  <node id='-78243' visible='true' lat='28.32587885484' lon='-16.79659024449'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito La Ermita II' />
+  </node>
+  <node id='-78599' visible='true' lat='28.32791660294' lon='-16.80560972381'>
+    <tag k='alt_name' v='Depósito La Plaza' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Erjos' />
+  </node>
+  <node id='-79149' visible='true' lat='28.33291733437' lon='-16.80347082017'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Erjos' />
+  </node>
+</osm>

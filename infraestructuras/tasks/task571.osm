@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77407' visible='true' lat='28.37983623817' lon='-16.85645636425'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Comunidad de Regantes la Monja' />
+  </node>
+  <node id='-77409' visible='true' lat='28.37510009923' lon='-16.86031230846'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Buenavista Golf' />
+  </node>
+  <node id='-79137' visible='true' lat='28.37568305913' lon='-16.85528207093'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Buenavista del Norte' />
+  </node>
+</osm>

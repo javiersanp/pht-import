@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74361' visible='true' lat='28.33589737779' lon='-16.71013209239'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Hondura 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74381' visible='true' lat='28.3276060592' lon='-16.71282447584'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Vista de San Felipe' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74383' visible='true' lat='28.3341240462' lon='-16.72696381486'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hoya de los Pinos' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

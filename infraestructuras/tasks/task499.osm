@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75347' visible='true' lat='28.16713786931' lon='-16.75975482115'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas de Herques' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78011' visible='true' lat='28.16146719527' lon='-16.76210598765'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tijoco de Abajo' />
+  </node>
+  <node id='-78067' visible='true' lat='28.1633503237' lon='-16.75461135795'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tijoco Bajo' />
+  </node>
+  <node id='-78103' visible='true' lat='28.17441326313' lon='-16.75823422215'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Tejina' />
+  </node>
+  <node id='-78677' visible='true' lat='28.16000278416' lon='-16.76509616461'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Presa Tijoco' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78749' visible='true' lat='28.17631258416' lon='-16.76492598638'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+</osm>

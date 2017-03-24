@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74949' visible='true' lat='28.43388726235' lon='-16.41007996543'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dieciocho de Mayo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75587' visible='true' lat='28.42179723177' lon='-16.40971553076'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Chirijer 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75605' visible='true' lat='28.42129826925' lon='-16.40996414234'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Fuentecillas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76371' visible='true' lat='28.43388800269' lon='-16.41000850453'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Dieciocho de Mayo 2' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

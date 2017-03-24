@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-77435' visible='true' lat='28.02365787183' lon='-16.61149106634'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='water_works' />
+    <tag k='name' v='EDAM Hotel Aguamarina' />
+  </node>
+  <node id='-79071' visible='true' lat='28.02611501037' lon='-16.60435724762'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo San Blás' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+  <node id='-79179' visible='true' lat='28.02474623669' lon='-16.60641176852'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Golf del Sur' />
+  </node>
+  <node id='-79181' visible='true' lat='28.02328793395' lon='-16.62068987775'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR Amarilla Golf' />
+  </node>
+  <node id='-79267' visible='true' lat='28.02305451877' lon='-16.62058467629'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='ETAR San Miguel' />
+  </node>
+</osm>

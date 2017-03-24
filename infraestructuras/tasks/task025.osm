@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76859' visible='true' lat='28.55904805065' lon='-16.21602702114'>
+    <tag k='alt_name' v='Pozo El el Tejal' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Roque' />
+  </node>
+  <node id='-77689' visible='true' lat='28.55068767516' lon='-16.20317413559'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Bailadero I' />
+  </node>
+</osm>

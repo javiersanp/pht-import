@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76101' visible='true' lat='28.14133788618' lon='-16.6335412884'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente Vega' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77939' visible='true' lat='28.12634580155' lon='-16.62531223708'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Horno de la Teja' />
+  </node>
+</osm>

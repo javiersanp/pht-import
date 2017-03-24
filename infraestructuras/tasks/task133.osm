@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76991' visible='true' lat='28.32119836332' lon='-16.40299066671'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Tonazo' />
+  </node>
+  <node id='-77061' visible='true' lat='28.31240021968' lon='-16.41768334032'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Mocana' />
+  </node>
+  <node id='-77813' visible='true' lat='28.32112304046' lon='-16.42247032695'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Chacaica' />
+  </node>
+  <node id='-79103' visible='true' lat='28.31230778069' lon='-16.40304732895'>
+    <tag k='building' v='yes' />
+    <tag k='man_made' v='pumping_station' />
+    <tag k='name' v='Estación de bombeo Casco de Güímar' />
+    <tag k='pumping_station' v='wastewater' />
+  </node>
+</osm>

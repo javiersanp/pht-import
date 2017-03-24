@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74815' visible='true' lat='28.41484277193' lon='-16.4488842462'>
+    <tag k='alt_name' v='Galería Salto de los Risquejos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto Morisco' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75027' visible='true' lat='28.40671565035' lon='-16.44505813575'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Atravesado 4' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75045' visible='true' lat='28.40473039437' lon='-16.461944516'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Benza' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75055' visible='true' lat='28.41210440178' lon='-16.46021857228'>
+    <tag k='alt_name' v='Galería Inora' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cuevas de la Vieja' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75059' visible='true' lat='28.40086720647' lon='-16.46450441909'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Montaña Blanca 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75061' visible='true' lat='28.40920845868' lon='-16.45758611365'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Nilo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75067' visible='true' lat='28.40646894733' lon='-16.45888576972'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Constanza' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

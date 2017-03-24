@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75205' visible='true' lat='28.16884141612' lon='-16.68751733702'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Rosario 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76515' visible='true' lat='28.16895973089' lon='-16.6867044677'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Padilla' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

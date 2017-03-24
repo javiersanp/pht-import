@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-76383' visible='true' lat='28.3207311907' lon='-16.82475255475'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Sabugo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76425' visible='true' lat='28.30736823775' lon='-16.81308352959'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Vargas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76495' visible='true' lat='28.31208910773' lon='-16.81842542247'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Alto de Vargas' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

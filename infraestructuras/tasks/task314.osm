@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74409' visible='true' lat='28.34653440099' lon='-16.58566544249'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Esmeralda' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74415' visible='true' lat='28.34260192119' lon='-16.56985680123'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Cruz de Luis' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74427' visible='true' lat='28.35289703279' lon='-16.5739767908'>
+    <tag k='alt_name' v='Galería las Millanas; Galería las Llanadas' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Helechera' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74435' visible='true' lat='28.35733510845' lon='-16.5842956042'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Zarzales 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74437' visible='true' lat='28.34856363992' lon='-16.57800367552'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Cerco del Agua' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75997' visible='true' lat='28.35100986205' lon='-16.58496681327'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Haya' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75999' visible='true' lat='28.3565503361' lon='-16.57413270898'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Hoyina' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76005' visible='true' lat='28.35642748588' lon='-16.56913178842'>
+    <tag k='alt_name' v='Galería los Remedios' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Saltadero' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76021' visible='true' lat='28.35697522401' lon='-16.57250660879'>
+    <tag k='alt_name' v='Galería las Milanaso Calderón; Galería Punto' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Llanadas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76023' visible='true' lat='28.35539627066' lon='-16.58416479129'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Mejor' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76027' visible='true' lat='28.35149191369' lon='-16.58619818339'>
+    <tag k='alt_name' v='Galería Furnias Viejas' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Hurones' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76031' visible='true' lat='28.3499495704' lon='-16.58301275969'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Madroño 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76039' visible='true' lat='28.35458594545' lon='-16.58399972886'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Furnia 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76045' visible='true' lat='28.35192582908' lon='-16.58380721199'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto del Madroño 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76207' visible='true' lat='28.35661464106' lon='-16.57637815701'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Centinela' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76217' visible='true' lat='28.35889554359' lon='-16.5781462835'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Lomo de la Viuda' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76243' visible='true' lat='28.35765871597' lon='-16.57114956486'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Espigón 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76313' visible='true' lat='28.3492966076' lon='-16.58483935192'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería los Fregeles' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76341' visible='true' lat='28.34661900493' lon='-16.578372774'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Tomillo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76343' visible='true' lat='28.35376283354' lon='-16.57715218122'>
+    <tag k='alt_name' v='Galería Sacha' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Lomo Merino' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-78327' visible='true' lat='28.35972043701' lon='-16.58250477467'>
+    <tag k='alt_name' v='Depósito Placeres' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Palo Blanco' />
+  </node>
+  <node id='-78333' visible='true' lat='28.35012203781' lon='-16.57747583067'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito El Cerco' />
+  </node>
+</osm>

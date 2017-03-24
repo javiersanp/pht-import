@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75299' visible='true' lat='28.23620549106' lon='-16.45144691284'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Gambuesa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75341' visible='true' lat='28.24334659621' lon='-16.44358380262'>
+    <tag k='alt_name' v='Galería Fuente del Volcán' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Concepción' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77291' visible='true' lat='28.23931226655' lon='-16.45380241607'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Zarza' />
+  </node>
+  <node id='-77849' visible='true' lat='28.24545927761' lon='-16.45373290108'>
+    <tag k='alt_name' v='Depósito Lomo Colorado' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Fasnia I' />
+  </node>
+  <node id='-77855' visible='true' lat='28.243074757' lon='-16.44795241146'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Fasnia II' />
+  </node>
+  <node id='-77859' visible='true' lat='28.23635080583' lon='-16.46152788169'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Zarza I' />
+  </node>
+</osm>

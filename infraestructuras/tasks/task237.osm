@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75333' visible='true' lat='28.18749508074' lon='-16.5204734773'>
+    <tag k='alt_name' v='Galería la Puente' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Quince de Septiembre' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76407' visible='true' lat='28.19258864776' lon='-16.50711936492'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de los Olivos' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76501' visible='true' lat='28.18127265739' lon='-16.50285579502'>
+    <tag k='alt_name' v='Galería el Saltadero de la Fuente' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Goteras' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

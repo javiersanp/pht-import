@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74721' visible='true' lat='28.26163354451' lon='-16.48802913867'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de la Plata' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74731' visible='true' lat='28.26967353876' lon='-16.48650978215'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de la Cañada' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74733' visible='true' lat='28.25558169672' lon='-16.48350099213'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Tenazo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74737' visible='true' lat='28.25838301822' lon='-16.48733162612'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Aguas del Teide' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74741' visible='true' lat='28.26619884137' lon='-16.49889804965'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de las Vacas' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

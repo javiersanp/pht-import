@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75271' visible='true' lat='28.21654577644' lon='-16.50183129967'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco Atravesado 3' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75285' visible='true' lat='28.22297953812' lon='-16.48458860577'>
+    <tag k='alt_name' v='Galería Fuente Caraña' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Fuente del Obispo' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76079' visible='true' lat='28.2272474178' lon='-16.49049682031'>
+    <tag k='alt_name' v='Galería el Caranal' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Charcos del Obispo 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76143' visible='true' lat='28.22729242641' lon='-16.49050763586'>
+    <tag k='alt_name' v='Galería los Limoneros' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Charcos del Obispo 1' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76223' visible='true' lat='28.22764020648' lon='-16.49502671955'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Risco de los Perros' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77883' visible='true' lat='28.21750991201' lon='-16.49538483646'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Bueno' />
+  </node>
+</osm>

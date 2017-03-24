@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74975' visible='true' lat='28.37751087576' lon='-16.4836230481'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Peñas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75413' visible='true' lat='28.3614203666' lon='-16.4776855201'>
+    <tag k='alt_name' v='Galería los Nacientes II' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Puerta' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75415' visible='true' lat='28.36153690202' lon='-16.47775855547'>
+    <tag k='alt_name' v='Galería Don Felipe; Galería Madre del Agua; ' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Pino' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76387' visible='true' lat='28.37708294104' lon='-16.46897365098'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Tabona' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76607' visible='true' lat='28.3697150719' lon='-16.47846369876'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de los Rosales' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

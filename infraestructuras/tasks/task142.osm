@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74875' visible='true' lat='28.47120740199' lon='-16.422984893'>
+    <tag k='alt_name' v='Galería los Manzaneros' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Canal de los Sauces' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74879' visible='true' lat='28.47289041352' lon='-16.41304896056'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Salto de las Higueras' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75637' visible='true' lat='28.47481512209' lon='-16.41021464777'>
+    <tag k='alt_name' v='Galería el Chopadero' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería las Lajitas' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76415' visible='true' lat='28.47841091376' lon='-16.41159028578'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Santa Catalina 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-77329' visible='true' lat='28.48144911115' lon='-16.42402107279'>
+    <tag k='alt_name' v='Pozo Martiño' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo La Suerte' />
+  </node>
+  <node id='-78503' visible='true' lat='28.47605865682' lon='-16.41387761938'>
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Rodrigo' />
+  </node>
+</osm>

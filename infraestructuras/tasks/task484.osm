@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74615' visible='true' lat='28.20817450177' lon='-16.73988887988'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Hondura de Isora' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74621' visible='true' lat='28.2052144021' lon='-16.74555601032'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuentes de Adara' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76459' visible='true' lat='28.20523205785' lon='-16.74558685943'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuentes de Adara 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76527' visible='true' lat='28.2063397629' lon='-16.73370590656'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Saltadero de Aguiar' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

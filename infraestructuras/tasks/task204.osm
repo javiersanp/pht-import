@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75057' visible='true' lat='28.3909419312' lon='-16.47265509761'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Roque' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75851' visible='true' lat='28.38905099502' lon='-16.4730882142'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Fuente Juan Benítez' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76315' visible='true' lat='28.39073254314' lon='-16.47115194947'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Caldereta 2' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76319' visible='true' lat='28.39545159016' lon='-16.47375848065'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Paso Blanco' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

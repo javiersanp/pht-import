@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-75207' visible='true' lat='28.18216976613' lon='-16.67292727314'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Encarnación y Santa Úrsula' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-75943' visible='true' lat='28.19557854011' lon='-16.66645363717'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería el Dornajito' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76511' visible='true' lat='28.17853955247' lon='-16.68267893378'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería la Laja de la Perra' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

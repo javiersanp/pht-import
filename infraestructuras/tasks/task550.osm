@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74463' visible='true' lat='28.33803090145' lon='-16.81798992055'>
+    <tag k='alt_name' v='Galería Piedra de los Cochinos' />
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Heredamiento de Daute' />
+    <tag k='resource' v='water' />
+  </node>
+</osm>

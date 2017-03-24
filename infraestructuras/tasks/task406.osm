@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-74767' visible='true' lat='28.37815833012' lon='-16.64947322006'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Santa Teresa' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74897' visible='true' lat='28.38566076612' lon='-16.65370189646'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Lomo de la Campana' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-74925' visible='true' lat='28.3842726099' lon='-16.65653766823'>
+    <tag k='man_made' v='adit' />
+    <tag k='name' v='Galería Río de la Reina' />
+    <tag k='resource' v='water' />
+  </node>
+  <node id='-76963' visible='true' lat='28.39130819743' lon='-16.65312620788'>
+    <tag k='alt_name' v='Pozo La Longuera' />
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Los Llanitos' />
+  </node>
+  <node id='-76965' visible='true' lat='28.38441203855' lon='-16.6606523301'>
+    <tag k='man_made' v='water_well' />
+    <tag k='name' v='Pozo Santa Catalina' />
+  </node>
+  <node id='-77565' visible='true' lat='28.37852566733' lon='-16.6652749133'>
+    <tag k='landuse' v='reservoir' />
+    <tag k='name' v='Balsa La Tabona' />
+    <tag k='reservoir_type' v='water_storage' />
+  </node>
+  <node id='-78285' visible='true' lat='28.3831291202' lon='-16.65409120065'>
+    <tag k='alt_name' v='Depósito Las Cañadas' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Guancha Bajo' />
+  </node>
+  <node id='-78297' visible='true' lat='28.39213723296' lon='-16.64950592889'>
+    <tag k='alt_name' v='Depósito San Juan de la Rambla' />
+    <tag k='building' v='yes' />
+    <tag k='content' v='water' />
+    <tag k='man_made' v='reservoir_covered' />
+    <tag k='name' v='Depósito Poncio' />
+  </node>
+  <node id='-79187' visible='true' lat='28.38505586806' lon='-16.65297817417'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR San José' />
+  </node>
+  <node id='-79189' visible='true' lat='28.38663984456' lon='-16.6607584856'>
+    <tag k='landuse' v='industrial' />
+    <tag k='man_made' v='wastewater_plant' />
+    <tag k='name' v='EDAR PTRSU la Guancha' />
+  </node>
+</osm>
